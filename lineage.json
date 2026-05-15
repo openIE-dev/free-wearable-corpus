@@ -1,0 +1,2156 @@
+{
+  "nodes": [
+    {
+      "id": "mercury-winged-sandals-talaria",
+      "name": "Winged sandals of Hermes/Mercury (the talaria)",
+      "year": "-060",
+      "corpus": "fictional",
+      "form_factor": "shoe",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "seven-league-boots-perrault",
+      "name": "Seven-league boots (bottes de sept lieues)",
+      "year": "1697",
+      "corpus": "fictional",
+      "form_factor": "shoe",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wizard-of-oz-ruby-slippers",
+      "name": "Ruby slippers (The Wizard of Oz) / silver shoes (Baum)",
+      "year": "1900",
+      "corpus": "fictional",
+      "form_factor": "shoe",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "einthoven-1903-string-galvanometer-ecg",
+      "name": "Einthoven (1903) — the string galvanometer electrocardiogram",
+      "year": "1903",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "forster-the-machine-stops-personal-apparatus",
+      "name": "'The Machine Stops' — pervasive personal mediated-communication apparatus",
+      "year": "1909",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "gernsback-hypnobioscope",
+      "name": "Ralph 124C 41+ — the 'Hypnobioscope' (head-worn sleep-state learning device)",
+      "year": "1911",
+      "corpus": "fictional",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "berger-1929-human-eeg",
+      "name": "Berger (1929) — first recording of the human electroencephalogram",
+      "year": "1929",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "huxley-brave-new-world-feelies",
+      "name": "Brave New World — the 'feelies' (multisensory immersive media with tactile feedback) and hypnopaedia",
+      "year": "1932",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hertzman-1937-photoplethysmography",
+      "name": "Hertzman (1937) — photoelectric plethysmography (the origin of PPG)",
+      "year": "1937",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "doc-smith-lens",
+      "name": "The Lens (Lensman series) — wrist-worn device with single-wearer biometric attunement",
+      "year": "1937",
+      "corpus": "fictional",
+      "form_factor": "bracelet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "lotr-one-ring",
+      "name": "The One Ring (Tolkien)",
+      "year": "1937",
+      "corpus": "fictional",
+      "form_factor": "ring",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "batman-utility-belt",
+      "name": "Batman's utility belt",
+      "year": "1939",
+      "corpus": "fictional",
+      "form_factor": "belt",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "green-lantern-power-ring",
+      "name": "Green Lantern power ring",
+      "year": "1940",
+      "corpus": "fictional",
+      "form_factor": "ring",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wonder-woman-bracelets",
+      "name": "Wonder Woman's bracelets (Bracelets of Submission)",
+      "year": "1941",
+      "corpus": "fictional",
+      "form_factor": "bracelet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "heinlein-waldo-master-gloves",
+      "name": "'Waldo' — wearable master gloves for teleoperated manipulation",
+      "year": "1942",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dick-tracy-2way-wrist-radio",
+      "name": "Dick Tracy 2-Way Wrist Radio",
+      "year": "1946",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": [
+        "dick-tracy-2way-wrist-tv"
+      ]
+    },
+    {
+      "id": "1984-telescreen-body-monitoring",
+      "name": "Nineteen Eighty-Four telescreen (remote body and behaviour monitoring)",
+      "year": "1949",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "aserinsky-kleitman-1953-rem-sleep",
+      "name": "Aserinsky & Kleitman (1953) — discovery of REM sleep via electrooculography",
+      "year": "1953",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fahrenheit-451-seashell-radio",
+      "name": "Fahrenheit 451 'Seashell' ear radios",
+      "year": "1953",
+      "corpus": "fictional",
+      "form_factor": "earbud",
+      "ancestors": [],
+      "descendants": [
+        "star-trek-tos-uhura-earpiece"
+      ]
+    },
+    {
+      "id": "flash-costume-ring",
+      "name": "The Flash's costume ring (compacted-garment storage ring)",
+      "year": "1959",
+      "corpus": "fictional",
+      "form_factor": "ring",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "heinlein-starship-troopers-powered-armor",
+      "name": "Starship Troopers — Mobile Infantry powered armor (powered exoskeleton with HUD, multi-sensor suite, comms, biomonitoring)",
+      "year": "1959",
+      "corpus": "fictional",
+      "form_factor": "exoskeleton",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "holter-1961-ambulatory-ecg",
+      "name": "Holter (1961) — continuous ambulatory electrocardiography (the Holter monitor)",
+      "year": "1961",
+      "corpus": "academic",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": [
+        "fda-k113862-irhythm-zio-patch-2011"
+      ]
+    },
+    {
+      "id": "clark-lyons-1962-enzyme-electrode",
+      "name": "Clark & Lyons (1962) — the enzyme electrode (basis of the amperometric glucose biosensor)",
+      "year": "1962",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ant-man-cybernetic-helmet",
+      "name": "Ant-Man's cybernetic helmet (head-worn interspecies signaling device)",
+      "year": "1962",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "jetsons-wrist-communicator",
+      "name": "The Jetsons wrist communicator / video watch",
+      "year": "1962",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "iron-man-arc-reactor-chest-implant",
+      "name": "Iron Man — arc-reactor chest implant (embedded power/life-support device with status display)",
+      "year": "1963",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cyclops-ruby-quartz-visor",
+      "name": "Cyclops's ruby-quartz visor (X-Men)",
+      "year": "1963",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "magneto-helmet",
+      "name": "Magneto's helmet (telepathy-shielding headgear)",
+      "year": "1963",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dick-tracy-2way-wrist-tv",
+      "name": "Dick Tracy 2-Way Wrist TV",
+      "year": "1964",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [
+        "dick-tracy-2way-wrist-radio"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "mandarin-ten-rings",
+      "name": "The Ten Rings (Marvel — the Mandarin / Wenwu)",
+      "year": "1964",
+      "corpus": "fictional",
+      "form_factor": "ring",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "professor-x-cerebro",
+      "name": "Cerebro (X-Men) — brain-amplifying head device for remote detection",
+      "year": "1964",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dune-holtzman-shield-belt",
+      "name": "Dune — Holtzman shield belt (worn personal force-field generator)",
+      "year": "1965",
+      "corpus": "fictional",
+      "form_factor": "belt",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dune-stillsuit",
+      "name": "Dune 'stillsuit' (body-moisture reclamation garment)",
+      "year": "1965",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "get-smart-shoe-phone",
+      "name": "Get Smart shoe phone",
+      "year": "1965",
+      "corpus": "fictional",
+      "form_factor": "shoe",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "niven-autodoc",
+      "name": "The 'autodoc' (Larry Niven, Known Space) — automated diagnostic-and-treatment booth",
+      "year": "1966",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fantastic-voyage-intravascular-craft",
+      "name": "Fantastic Voyage — miniaturized intravascular craft navigating the body",
+      "year": "1966",
+      "corpus": "fictional",
+      "form_factor": "ingestible",
+      "ancestors": [],
+      "descendants": [
+        "the-matrix-navel-tracking-bug"
+      ]
+    },
+    {
+      "id": "star-trek-biobed",
+      "name": "Star Trek sickbay biobed (wireless physiological telemetry)",
+      "year": "1966",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": [
+        "elysium-medbay-scanner"
+      ]
+    },
+    {
+      "id": "star-trek-tos-uhura-earpiece",
+      "name": "Star Trek (TOS) bridge communications earpiece",
+      "year": "1966",
+      "corpus": "fictional",
+      "form_factor": "earbud",
+      "ancestors": [
+        "fahrenheit-451-seashell-radio"
+      ],
+      "descendants": [
+        "her-samantha-earpiece"
+      ]
+    },
+    {
+      "id": "logans-run-lifeclock",
+      "name": "Logan's Run 'Lifeclock' palm crystal",
+      "year": "1967",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "updike-hicks-1967-enzyme-electrode",
+      "name": "Updike & Hicks (1967) — the practical glucose enzyme electrode",
+      "year": "1967",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "blade-runner-voight-kampff",
+      "name": "Blade Runner — the Voight-Kampff machine (contactless multi-physiological liveness/identity test)",
+      "year": "1968",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "rechtschaffen-kales-1968-sleep-scoring-manual",
+      "name": "Rechtschaffen & Kales (1968) — standardized sleep-stage scoring manual",
+      "year": "1968",
+      "corpus": "standards",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "delany-nova-cyborg-sockets",
+      "name": "Nova — 'plug' sockets at wrist and spine for direct machine operation",
+      "year": "1968",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "doraemon-take-copter",
+      "name": "Doraemon — 'Take-copter' (head-worn thought-controlled flight device)",
+      "year": "1969",
+      "corpus": "fictional",
+      "form_factor": "cap",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "thx-1138-state-monitoring",
+      "name": "THX 1138 — pervasive body-state monitoring with regulated medication",
+      "year": "1971",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kamen-rider-henshin-belt",
+      "name": "Kamen Rider — 'Henshin Belt' (gesture-and-command transformation belt)",
+      "year": "1971",
+      "corpus": "fictional",
+      "form_factor": "belt",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "caidin-cyborg-bionics",
+      "name": "Cyborg / The Six Million Dollar Man — bionic eye and limbs with sensing",
+      "year": "1972",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": [
+        "bionic-woman-bionic-ear"
+      ]
+    },
+    {
+      "id": "penaz-1973-volume-clamp-finger-bp",
+      "name": "Peñáz (1973) — the volume-clamp (vascular unloading) method of continuous finger blood pressure",
+      "year": "1973",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "aoyagi-1974-two-wavelength-pulse-oximetry",
+      "name": "Aoyagi (1974) — two-wavelength pulse oximetry principle",
+      "year": "1974",
+      "corpus": "private",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bionic-woman-bionic-ear",
+      "name": "The Bionic Woman — bionic ear (augmented, frequency-selective hearing)",
+      "year": "1976",
+      "corpus": "fictional",
+      "form_factor": "hearing-aid",
+      "ancestors": [
+        "caidin-cyborg-bionics"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "judge-dredd-helmet-and-lawgiver",
+      "name": "Judge Dredd — Judge's helmet HUD and palmprint-authenticated 'Lawgiver'",
+      "year": "1977",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "darth-vader-life-support-suit",
+      "name": "Darth Vader life-support suit (wearable respiratory support and biometric monitoring)",
+      "year": "1977",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hitchhikers-babel-fish",
+      "name": "The Hitchhiker's Guide to the Galaxy 'Babel fish'",
+      "year": "1978",
+      "corpus": "fictional",
+      "form_factor": "earbud",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "gundam-psycommu-interface",
+      "name": "Mobile Suit Gundam — 'psycommu' head-worn neural interface for remote weapon control",
+      "year": "1979",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "geddes-1981-pulse-transit-time-bp",
+      "name": "Geddes et al. (1981) — pulse transit time as an indicator of arterial blood pressure",
+      "year": "1981",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "escape-from-new-york-life-clock",
+      "name": "Escape from New York — wrist countdown unit and arterial micro-charge implant",
+      "year": "1981",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "polar-sport-tester-pe2000-1982",
+      "name": "Polar Sport Tester PE2000 — first wireless wrist heart-rate monitor",
+      "year": "1982",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": [
+        "polar-h10-chest-strap-2017"
+      ]
+    },
+    {
+      "id": "the-running-man-tracking-collar",
+      "name": "The Running Man — worn tracking/enforcement collar",
+      "year": "1982",
+      "corpus": "fictional",
+      "form_factor": "pendant",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "neuromancer-cyberspace-deck-trodes-and-simstim",
+      "name": "Neuromancer — 'trodes' (head-worn cyberspace interface) and 'simstim' (worn sensory-broadcast rig)",
+      "year": "1982",
+      "corpus": "fictional",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "tron-identity-disc",
+      "name": "Tron — the 'identity disc' (back-worn data store and tool)",
+      "year": "1982",
+      "corpus": "fictional",
+      "form_factor": "pendant",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "knight-rider-comlink-watch",
+      "name": "Knight Rider Comlink wristwatch",
+      "year": "1982",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "shichiri-1982-wearable-needle-glucose-sensor",
+      "name": "Shichiri et al. (1982) — wearable artificial pancreas with needle-type subcutaneous glucose sensor",
+      "year": "1982",
+      "corpus": "academic",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "inspector-gadget-gadget-hat",
+      "name": "Inspector Gadget's headgear ('Gadget-copter' hat)",
+      "year": "1983",
+      "corpus": "fictional",
+      "form_factor": "cap",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "inspector-gadget-wrist-computer",
+      "name": "Inspector Gadget's wrist computer ('Gadget-phone')",
+      "year": "1983",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "neuromancer-mirrorshade-ocular-implants",
+      "name": "Neuromancer — Molly's mirrored ocular implants with embedded data readout",
+      "year": "1984",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "venom-symbiote-suit",
+      "name": "Venom symbiote — adaptive symbiotic worn covering responsive to wearer state",
+      "year": "1984",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "terminator-t800-hud",
+      "name": "Terminator T-800 vision HUD",
+      "year": "1984",
+      "corpus": "fictional",
+      "form_factor": "fictional-other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "aliens-marine-helmet-cam",
+      "name": "Aliens — Colonial Marine helmet camera with live command feed",
+      "year": "1986",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "metroid-power-suit",
+      "name": "Metroid — Samus Aran's Power Suit (powered armor with multi-mode scan visor and health/environment systems)",
+      "year": "1986",
+      "corpus": "fictional",
+      "form_factor": "exoskeleton",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "predator-bio-mask",
+      "name": "Predator bio-mask (multi-spectral helmet HUD)",
+      "year": "1987",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "robocop-targeting-hud",
+      "name": "RoboCop helmet HUD with recording and database lookup",
+      "year": "1987",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "star-trek-tng-combadge",
+      "name": "Star Trek combadge (Starfleet communicator badge)",
+      "year": "1987",
+      "corpus": "fictional",
+      "form_factor": "pendant",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "star-trek-tng-visor",
+      "name": "Geordi La Forge's VISOR (Star Trek: TNG)",
+      "year": "1987",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cyberpunk-2020-cyberoptics-and-interface-plugs",
+      "name": "Cyberpunk 2020 — 'cyberoptics' and 'Interface plugs' (implanted sensor eyes + neural ports)",
+      "year": "1988",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mendelson-ochs-1988-reflectance-pulse-oximetry",
+      "name": "Mendelson & Ochs (1988) — reflectance-mode pulse oximetry / skin-reflectance PPG",
+      "year": "1988",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "they-live-hoffman-lenses",
+      "name": "They Live 'Hoffman lenses' (information-overlay sunglasses)",
+      "year": "1988",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "shadowrun-cyberware",
+      "name": "Shadowrun — 'cyberware' (cybereyes, cyberears, datajack, smartlink)",
+      "year": "1989",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dragon-ball-z-scouter",
+      "name": "Dragon Ball 'Scouter' (monocular scanning eyewear)",
+      "year": "1989",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ghost-in-the-shell-cyberbrain",
+      "name": "Ghost in the Shell — cyberbrain neural-interface implant and cyberbody monitoring",
+      "year": "1989",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": [
+        "star-trek-borg-implants"
+      ]
+    },
+    {
+      "id": "star-trek-borg-implants",
+      "name": "Star Trek Borg cybernetic implant suite",
+      "year": "1989",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [
+        "ghost-in-the-shell-cyberbrain"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bttf2-power-laces-shoes",
+      "name": "Back to the Future Part II self-lacing 'power laces' shoes",
+      "year": "1989",
+      "corpus": "fictional",
+      "form_factor": "shoe",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bttf2-self-drying-jacket",
+      "name": "Back to the Future Part II self-drying / auto-sizing jacket",
+      "year": "1989",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bttf2-video-glasses",
+      "name": "Back to the Future Part II personal video/phone glasses",
+      "year": "1989",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [],
+      "descendants": [
+        "snow-crash-gargoyle-rig"
+      ]
+    },
+    {
+      "id": "total-recall-walkthrough-body-scanner",
+      "name": "Total Recall walk-through whole-body imaging scanner",
+      "year": "1990",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "star-trek-tng-the-game-neuro-visor",
+      "name": "Star Trek: TNG 'The Game' — head-worn neuro-reward gaming visor",
+      "year": "1991",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sailor-moon-communicator-watch",
+      "name": "Sailor Moon — Sailor Guardians' video communicator wristwatch",
+      "year": "1991",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "cole-kripke-1992-wrist-actigraphy-sleep",
+      "name": "Cole & Kripke et al. (1992) — automatic sleep/wake identification from wrist activity (the Cole-Kripke algorithm)",
+      "year": "1992",
+      "corpus": "academic",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "snow-crash-gargoyle-rig",
+      "name": "Snow Crash 'Gargoyle' wearable computer rig",
+      "year": "1992",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [
+        "bttf2-video-glasses"
+      ],
+      "descendants": [
+        "halting-state-ar-glasses",
+        "kingsman-ar-glasses"
+      ]
+    },
+    {
+      "id": "lawnmower-man-vr-cybersuit",
+      "name": "The Lawnmower Man — VR rig (gyro chair, headset, full-body cybersuit)",
+      "year": "1992",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "demolition-man-tracking-implant",
+      "name": "Demolition Man subcutaneous tracking implant and ambient sensing 'fine machine'",
+      "year": "1993",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wallace-gromit-techno-trousers",
+      "name": "Wallace & Gromit 'Techno Trousers' (powered automated legwear)",
+      "year": "1993",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sadeh-1994-actigraphy-sleep-wake-algorithm",
+      "name": "Sadeh et al. (1994) — activity-based sleep-wake identification (the Sadeh algorithm)",
+      "year": "1994",
+      "corpus": "academic",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nge-plug-suit-and-a10-clips",
+      "name": "Neon Genesis Evangelion — 'plug suit' and 'A10 nerve clips' (bio-monitoring suit + head-worn neural sync interface)",
+      "year": "1995",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "strange-days-squid-recorder",
+      "name": "Strange Days — SQUID head-worn neural experience recorder",
+      "year": "1995",
+      "corpus": "fictional",
+      "form_factor": "cap",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "esc-naspe-1996-hrv-standards",
+      "name": "Task Force of the ESC and NASPE (1996) — heart rate variability: standards of measurement",
+      "year": "1996",
+      "corpus": "standards",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "webster-1997-design-of-pulse-oximeters",
+      "name": "Webster (ed.) (1997) — 'Design of Pulse Oximeters'",
+      "year": "1997",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "gattaca-biometric-checkpoints",
+      "name": "Gattaca continuous multi-modal biometric identity verification",
+      "year": "1997",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fallout-pip-boy",
+      "name": "Fallout — the 'Pip-Boy' (forearm-worn personal computer with multi-parameter health and radiation monitoring)",
+      "year": "1997",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "metal-gear-solid-sneaking-suit-and-solid-eye",
+      "name": "Metal Gear Solid — 'Sneaking Suit' with body monitoring and the 'Solid Eye' (monocular multi-mode HUD)",
+      "year": "1998",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "williams-1998-automatic-fall-detector",
+      "name": "Williams et al. (1998) — accelerometer-based automatic fall and activity monitor for telecare",
+      "year": "1998",
+      "corpus": "academic",
+      "form_factor": "belt",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "digimon-digivice",
+      "name": "Digimon — 'Digivice' (worn companion-monitoring device)",
+      "year": "1999",
+      "corpus": "fictional",
+      "form_factor": "pendant",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "the-matrix-headjack",
+      "name": "The Matrix — cranial 'headjack' neural-interface socket",
+      "year": "1999",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": [
+        "existenz-bioport-and-game-pod"
+      ]
+    },
+    {
+      "id": "the-matrix-navel-tracking-bug",
+      "name": "The Matrix — migrating intra-abdominal surveillance 'bug'",
+      "year": "1999",
+      "corpus": "fictional",
+      "form_factor": "ingestible",
+      "ancestors": [
+        "fantastic-voyage-intravascular-craft"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "existenz-bioport-and-game-pod",
+      "name": "eXistenZ — spinal 'bioport' and organic neural game pod",
+      "year": "1999",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [
+        "the-matrix-headjack"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "medtronic-minimed-cgms-1999",
+      "name": "Medtronic MiniMed CGMS (1999) — first FDA-cleared continuous glucose monitoring system",
+      "year": "1999",
+      "corpus": "private",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "iddan-2000-wireless-capsule-endoscopy",
+      "name": "Iddan et al. (2000) — 'Wireless capsule endoscopy' (the foundational ingestible-camera disclosure)",
+      "year": "2000",
+      "corpus": "academic",
+      "form_factor": "ingestible",
+      "ancestors": [],
+      "descendants": [
+        "pillcam-given-imaging-2001"
+      ]
+    },
+    {
+      "id": "gantz-suit",
+      "name": "Gantz — interface bodysuit (strength augmentation + player tracking)",
+      "year": "2000",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "asada-mit-wearable-ring-sensor-2003",
+      "name": "MIT wearable ring sensor (Rhee, Yang, Asada) — finger-ring PPG for ambulatory monitoring",
+      "year": "2001",
+      "corpus": "academic",
+      "form_factor": "ring",
+      "ancestors": [],
+      "descendants": [
+        "oura-ring-gen1-2015"
+      ]
+    },
+    {
+      "id": "pillcam-given-imaging-2001",
+      "name": "PillCam SB (Given Imaging, 2001) — first FDA-cleared wireless capsule endoscope",
+      "year": "2001",
+      "corpus": "private",
+      "form_factor": "ingestible",
+      "ancestors": [
+        "iddan-2000-wireless-capsule-endoscopy"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "halo-mjolnir-armor",
+      "name": "Halo — MJOLNIR powered armor (powered exoskeleton with energy shield, HUD, integrated AI, and biofoam medical system)",
+      "year": "2001",
+      "corpus": "fictional",
+      "form_factor": "exoskeleton",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "altered-carbon-cortical-stack",
+      "name": "Altered Carbon — 'cortical stack' cervical-spine consciousness store",
+      "year": "2002",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "wolpaw-2002-bci-review",
+      "name": "Wolpaw et al. (2002) — 'Brain-computer interfaces for communication and control'",
+      "year": "2002",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "minority-report-retinal-id-ads",
+      "name": "Minority Report ambient retinal identification and personalization",
+      "year": "2002",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "splinter-cell-trifocal-goggles",
+      "name": "Splinter Cell — trifocal goggles (multi-spectral vision goggles with selectable modes)",
+      "year": "2002",
+      "corpus": "fictional",
+      "form_factor": "goggles",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "garmin-forerunner-201-2003",
+      "name": "Garmin Forerunner 201 (2003) — wristworn GPS running watch with pace/distance and heart-rate (strap) integration",
+      "year": "2003",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ancoli-israel-2003-actigraphy-review",
+      "name": "Ancoli-Israel et al. (2003) — 'The role of actigraphy in the study of sleep and circadian rhythms'",
+      "year": "2003",
+      "corpus": "academic",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "englehart-hudgins-2003-myoelectric-control",
+      "name": "Englehart & Hudgins (2003) — robust real-time multifunction myoelectric (surface-EMG) control",
+      "year": "2003",
+      "corpus": "academic",
+      "form_factor": "armband",
+      "ancestors": [],
+      "descendants": [
+        "ctrl-labs-meta-wrist-emg-2018"
+      ]
+    },
+    {
+      "id": "iron-man-extremis",
+      "name": "Iron Man — 'Extremis' (integrated body modification with wireless sensorium)",
+      "year": "2005",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "the-island-continuous-health-monitoring",
+      "name": "The Island — 24-hour ambient health monitoring with biochemical smart toilet",
+      "year": "2005",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "surrogates-neural-teleoperation-rig",
+      "name": "Surrogates — head-worn neural interface rig for robot-body telepresence",
+      "year": "2005",
+      "corpus": "fictional",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "paradiso-2005-wealthy-knitted-smart-shirt",
+      "name": "Paradiso et al. (2005) — 'A wearable health care system based on knitted integrated sensors' (WEALTHY)",
+      "year": "2005",
+      "corpus": "academic",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": [
+        "hexoskin-smart-shirt-2014"
+      ]
+    },
+    {
+      "id": "rainbows-end-ar-contact-lens",
+      "name": "Rainbows End AR contact lenses and 'wearing'",
+      "year": "2006",
+      "corpus": "fictional",
+      "form_factor": "contact-lens",
+      "ancestors": [],
+      "descendants": [
+        "halting-state-ar-glasses",
+        "kingsman-ar-glasses",
+        "mi-ghost-protocol-contact-lens-camera",
+        "mojo-vision-ar-contact-lens-2022"
+      ]
+    },
+    {
+      "id": "dexcom-sts-2006",
+      "name": "Dexcom STS (2006) — early real-time continuous glucose monitoring system",
+      "year": "2006",
+      "corpus": "private",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": [
+        "dexcom-g6-2018"
+      ]
+    },
+    {
+      "id": "blue-beetle-scarab",
+      "name": "Blue Beetle 'Scarab' — spine-attached adaptive armor generator with HUD and AI",
+      "year": "2006",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "nike-plus-ipod-sport-kit-2006",
+      "name": "Nike+iPod Sport Kit (2006) — instrumented-shoe accelerometer pod",
+      "year": "2006",
+      "corpus": "private",
+      "form_factor": "shoe",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "idiocracy-barcode-identity-tattoo",
+      "name": "Idiocracy machine-readable barcode identity tattoo",
+      "year": "2006",
+      "corpus": "fictional",
+      "form_factor": "tattoo-electronic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pokemon-poketch",
+      "name": "Pokémon — 'Pokétch' wrist device with an app ecosystem",
+      "year": "2006",
+      "corpus": "fictional",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "continua-design-guidelines-2007",
+      "name": "Continua Health Alliance — Design Guidelines (first edition, 2007)",
+      "year": "2007",
+      "corpus": "standards",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "halting-state-ar-glasses",
+      "name": "Halting State AR glasses ('CopSpace' and ARG overlays)",
+      "year": "2007",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [
+        "rainbows-end-ar-contact-lens",
+        "snow-crash-gargoyle-rig"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "neurosky-mindset-2007",
+      "name": "NeuroSky MindSet / MindWave (2007) — single dry-electrode consumer EEG headset",
+      "year": "2007",
+      "corpus": "private",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "allen-2007-ppg-review",
+      "name": "Allen (2007) — 'Photoplethysmography and its application in clinical physiological measurement'",
+      "year": "2007",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "crysis-nanosuit",
+      "name": "Crysis — the 'Nanosuit' (mode-switchable nano-augmentation suit with HUD and neural integration)",
+      "year": "2007",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mass-effect-omni-tool",
+      "name": "Mass Effect — the 'omni-tool' (forearm-worn device with projected holographic interface and medical scanning)",
+      "year": "2007",
+      "corpus": "fictional",
+      "form_factor": "armband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "iron-man-helmet-hud",
+      "name": "Iron Man helmet HUD with biometric monitoring",
+      "year": "2008",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dead-space-resource-integration-gear",
+      "name": "Dead Space — 'RIG' (suit with body-mounted health display and projected holographic UI)",
+      "year": "2008",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "repo-men-organ-transponder",
+      "name": "Repo Men — artificial organ implant with built-in monitoring/repossession transponder",
+      "year": "2009",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "sao-nervegear",
+      "name": "Sword Art Online — 'NerveGear' full-immersion VR headset",
+      "year": "2009",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "chb-mit-scalp-eeg-database-2009",
+      "name": "CHB-MIT Scalp EEG Database (Shoeb, 2009) — benchmark seizure-detection dataset",
+      "year": "2009",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "batman-detective-vision-cowl",
+      "name": "Batman — cowl with 'Detective Vision' (head-worn AR with through-obstacle vitals/skeletal overlay)",
+      "year": "2009",
+      "corpus": "fictional",
+      "form_factor": "helmet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fitbit-tracker-2009",
+      "name": "Fitbit Tracker (2009) — clip-on accelerometer activity and sleep monitor",
+      "year": "2009",
+      "corpus": "private",
+      "form_factor": "pendant",
+      "ancestors": [],
+      "descendants": [
+        "fitbit-charge-hr-2015"
+      ]
+    },
+    {
+      "id": "emotiv-epoc-2009",
+      "name": "Emotiv EPOC (2009) — 14-channel wireless saline-electrode consumer EEG headset",
+      "year": "2009",
+      "corpus": "private",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pantelopoulos-bourbakis-2010-wearable-health-survey",
+      "name": "Pantelopoulos & Bourbakis (2010) — survey on wearable sensor-based systems for health monitoring and prognosis",
+      "year": "2010",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "yao-parviz-2011-contact-lens-glucose-sensor",
+      "name": "Yao et al. (Parviz group) (2011) — contact lens with embedded electrochemical sensor for tear glucose",
+      "year": "2011",
+      "corpus": "academic",
+      "form_factor": "contact-lens",
+      "ancestors": [],
+      "descendants": [
+        "verily-google-smart-contact-lens-2014"
+      ]
+    },
+    {
+      "id": "portal-long-fall-boots",
+      "name": "Portal 2 — 'Long Fall' boots (footwear with integrated impact-absorption)",
+      "year": "2011",
+      "corpus": "fictional",
+      "form_factor": "shoe",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bluetooth-sig-heart-rate-profile-2011",
+      "name": "Bluetooth SIG — Heart Rate Profile / Heart Rate Service (2011)",
+      "year": "2011",
+      "corpus": "standards",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kim-rogers-2011-epidermal-electronics",
+      "name": "Kim et al. (Rogers group) (2011) — 'Epidermal Electronics' (electronic-tattoo skin-mounted devices)",
+      "year": "2011",
+      "corpus": "academic",
+      "form_factor": "tattoo-electronic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "iso-80601-2-61-pulse-oximeter-equipment-2011",
+      "name": "ISO 80601-2-61 — particular requirements for basic safety and essential performance of pulse oximeter equipment (2011/2017)",
+      "year": "2011",
+      "corpus": "standards",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ready-player-one-haptic-suit",
+      "name": "Ready Player One full-body haptic suit and visor",
+      "year": "2011",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fda-k113862-irhythm-zio-patch-2011",
+      "name": "FDA 510(k) K113862 (~2011) — iRhythm Zio Patch, long-term single-lead adhesive ECG monitor",
+      "year": "2011",
+      "corpus": "regulatory",
+      "form_factor": "patch",
+      "ancestors": [
+        "holter-1961-ambulatory-ecg"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-fifteen-million-merits-gaze-enforcement",
+      "name": "Black Mirror 'Fifteen Million Merits' — gaze-enforced compulsory viewing",
+      "year": "2011",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mi-ghost-protocol-contact-lens-camera",
+      "name": "Mission: Impossible – Ghost Protocol — contact-lens camera and document scanner",
+      "year": "2011",
+      "corpus": "fictional",
+      "form_factor": "contact-lens",
+      "ancestors": [
+        "rainbows-end-ar-contact-lens"
+      ],
+      "descendants": [
+        "mojo-vision-ar-contact-lens-2022"
+      ]
+    },
+    {
+      "id": "black-mirror-grain-implant",
+      "name": "Black Mirror 'grain' implant ('The Entire History of You')",
+      "year": "2011",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "ieee-11073-10406-basic-ecg-2011",
+      "name": "IEEE Std 11073-10406-2011 — personal health device communication: basic electrocardiograph (1- to 3-lead ECG)",
+      "year": "2011",
+      "corpus": "standards",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "patel-bonato-2012-wearable-sensors-rehab-review",
+      "name": "Patel et al. (2012) — 'A review of wearable sensors and systems with application in rehabilitation'",
+      "year": "2012",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "total-recall-2012-palm-phone",
+      "name": "Total Recall (2012) — subdermal palm phone with through-skin display",
+      "year": "2012",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "psycho-pass-cymatic-scan",
+      "name": "Psycho-Pass — ambient continuous psychological-state scanning ('cymatic scan')",
+      "year": "2012",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "looney-mandic-2012-in-ear-eeg",
+      "name": "Looney et al. (2012) — 'The in-the-ear recording concept' (ear-EEG)",
+      "year": "2012",
+      "corpus": "academic",
+      "form_factor": "earbud",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "alivecor-kardiamobile-2012",
+      "name": "AliveCor Heart Monitor / KardiaMobile (2012) — smartphone-coupled single-lead ECG",
+      "year": "2012",
+      "corpus": "private",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "hexoskin-smart-shirt-2014",
+      "name": "Hexoskin smart shirt (2014) — textile-integrated ECG, respiration and activity garment",
+      "year": "2013",
+      "corpus": "private",
+      "form_factor": "garment",
+      "ancestors": [
+        "paradiso-2005-wealthy-knitted-smart-shirt"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "myo-armband-2014",
+      "name": "Thalmic Labs Myo armband (2014) — consumer surface-EMG gesture-control armband",
+      "year": "2013",
+      "corpus": "private",
+      "form_factor": "armband",
+      "ancestors": [],
+      "descendants": [
+        "ctrl-labs-meta-wrist-emg-2018"
+      ]
+    },
+    {
+      "id": "pacific-rim-drivesuit-and-conn-pod",
+      "name": "Pacific Rim — Jaeger 'Drivesuit' and 'Conn-Pod' dual-pilot neural bridge",
+      "year": "2013",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "elysium-bolt-on-exoskeleton",
+      "name": "Elysium — surgically-integrated powered exoskeleton with neural control",
+      "year": "2013",
+      "corpus": "fictional",
+      "form_factor": "exoskeleton",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "elysium-medbay-scanner",
+      "name": "Elysium 'Med-Bay' — contactless full-body diagnostic and treatment scanner",
+      "year": "2013",
+      "corpus": "fictional",
+      "form_factor": "other",
+      "ancestors": [
+        "star-trek-biobed"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "the-circle-seechange-and-health-wristbands",
+      "name": "The Circle — 'SeeChange' wearable cameras and employee health wristbands",
+      "year": "2013",
+      "corpus": "fictional",
+      "form_factor": "bracelet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "her-samantha-earpiece",
+      "name": "Her — 'Samantha' in-ear conversational AI",
+      "year": "2013",
+      "corpus": "fictional",
+      "form_factor": "earbud",
+      "ancestors": [
+        "star-trek-tos-uhura-earpiece"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sensoria-smart-socks-2014",
+      "name": "Sensoria Smart Socks (2014) — pressure-sensing sock + electronic anklet for gait/running analysis",
+      "year": "2014",
+      "corpus": "private",
+      "form_factor": "sock",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "verily-google-smart-contact-lens-2014",
+      "name": "Google[X] / Verily smart contact lens (2014) — tear-glucose-sensing contact lens project",
+      "year": "2014",
+      "corpus": "private",
+      "form_factor": "contact-lens",
+      "ancestors": [
+        "yao-parviz-2011-contact-lens-glucose-sensor"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "openbci-cyton-2014",
+      "name": "OpenBCI Cyton — open-source 8-channel biosignal (EEG/EMG/ECG) acquisition board and 3D-printed headset",
+      "year": "2014",
+      "corpus": "open",
+      "form_factor": "cap",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bragi-dash-2014",
+      "name": "Bragi Dash (2014) — the first true 'hearable': in-ear PPG heart rate, accelerometer, storage and touch control inside wireless earbuds",
+      "year": "2014",
+      "corpus": "private",
+      "form_factor": "earbud",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "falcon-exo7-wing-pack-and-goggles",
+      "name": "Falcon — 'EXO-7' wing-pack exoskeleton with HUD goggles and tethered drone",
+      "year": "2014",
+      "corpus": "fictional",
+      "form_factor": "exoskeleton",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "muse-headband-2014",
+      "name": "Muse headband (InteraXon, 2014) — multi-channel dry-electrode EEG headband for meditation and sleep",
+      "year": "2014",
+      "corpus": "private",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bandodkar-wang-2014-wearable-electrochemical-sensors-review",
+      "name": "Bandodkar & Wang (2014) — 'Non-invasive wearable electrochemical sensors: a review'",
+      "year": "2014",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "abbott-freestyle-libre-2014",
+      "name": "Abbott FreeStyle Libre (2014) — factory-calibrated flash glucose monitoring",
+      "year": "2014",
+      "corpus": "private",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": [
+        "abbott-freestyle-libre-2-2018"
+      ]
+    },
+    {
+      "id": "inan-2015-bcg-scg-review",
+      "name": "Inan et al. (2015) — ballistocardiography and seismocardiography review",
+      "year": "2014",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "microsoft-band-2014",
+      "name": "Microsoft Band (2014) — ten-sensor wristband (optical HR, GPS, GSR, UV, skin temp, barometer, ambient light, capacitive, microphone, IMU)",
+      "year": "2014",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "bandodkar-2015-tattoo-glucose-sensor",
+      "name": "Bandodkar et al. (2015) — tattoo-based noninvasive glucose monitoring",
+      "year": "2014",
+      "corpus": "academic",
+      "form_factor": "tattoo-electronic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kingsman-ar-glasses",
+      "name": "Kingsman AR glasses (HUD, recording, X-ray, scanning, holographic conferencing)",
+      "year": "2014",
+      "corpus": "fictional",
+      "form_factor": "glasses",
+      "ancestors": [
+        "rainbows-end-ar-contact-lens",
+        "snow-crash-gargoyle-rig"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "kingsman-poison-tooth",
+      "name": "Kingsman lethal-capsule molar (dental implant with deployable payload)",
+      "year": "2014",
+      "corpus": "fictional",
+      "form_factor": "dental",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "kingsman-signet-ring",
+      "name": "Kingsman signet ring (electroshock ring)",
+      "year": "2014",
+      "corpus": "fictional",
+      "form_factor": "ring",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-z-eye-redaction",
+      "name": "Black Mirror 'Z-Eye' ocular implant with selective people-redaction ('White Christmas')",
+      "year": "2014",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "whoop-strap-2015",
+      "name": "WHOOP Strap (2015) — display-less wrist/bicep PPG band for continuous HR/HRV, sleep and recovery",
+      "year": "2015",
+      "corpus": "private",
+      "form_factor": "bracelet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fitbit-charge-hr-2015",
+      "name": "Fitbit Charge HR (2015) — wristband with continuous wrist-PPG heart rate ('PurePulse')",
+      "year": "2015",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [
+        "fitbit-tracker-2009"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "apple-watch-original-2015",
+      "name": "Apple Watch (1st generation, 2015) — wrist green-PPG heart rate and activity",
+      "year": "2015",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mukkamala-2015-ptt-cuffless-bp-review",
+      "name": "Mukkamala et al. (2015) — 'Toward Ubiquitous Blood Pressure Monitoring via Pulse Transit Time: Theory and Practice'",
+      "year": "2015",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "oura-ring-gen1-2015",
+      "name": "Oura Ring (Gen 1, 2015) — finger-ring PPG, skin-temperature and accelerometer for HRV, sleep and body temperature",
+      "year": "2015",
+      "corpus": "private",
+      "form_factor": "ring",
+      "ancestors": [
+        "asada-mit-wearable-ring-sensor-2003"
+      ],
+      "descendants": [
+        "samsung-galaxy-ring-2024",
+        "ultrahuman-ring-air-2023"
+      ]
+    },
+    {
+      "id": "eargo-otc-hearing-aid-2017",
+      "name": "Eargo (2017) — direct-to-consumer rechargeable in-canal hearing aid",
+      "year": "2015",
+      "corpus": "private",
+      "form_factor": "hearing-aid",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "debener-2015-ceegrid-around-ear-eeg",
+      "name": "Debener et al. (2015) — cEEGrid: unobtrusive around-the-ear EEG with flexible printed electrodes",
+      "year": "2015",
+      "corpus": "academic",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "vitalconnect-vitalpatch-2016",
+      "name": "VitalConnect VitalPatch (2016) — adhesive chest patch with single-lead ECG and multi-parameter monitoring",
+      "year": "2016",
+      "corpus": "private",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "gao-javey-2016-wearable-sweat-sensor-array",
+      "name": "Gao et al. (Javey group) (2016) — fully integrated wearable sensor array for multiplexed in-situ perspiration analysis",
+      "year": "2016",
+      "corpus": "academic",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "axon-body-2-police-bodycam-2016",
+      "name": "Axon Body 2 (2016) — networked law-enforcement body-worn camera with cloud digital-evidence chain of custody",
+      "year": "2016",
+      "corpus": "private",
+      "form_factor": "body-camera",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "westworld-host-control-unit",
+      "name": "Westworld — host 'control unit' and continuous body telemetry",
+      "year": "2016",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-men-against-fire-mass-implant",
+      "name": "Black Mirror 'Men Against Fire' — 'MASS' military neural implant",
+      "year": "2016",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-nosedive-rating-overlay",
+      "name": "Black Mirror 'Nosedive' — AR social-rating overlay",
+      "year": "2016",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-playtest-implant",
+      "name": "Black Mirror 'Playtest' — adaptive mixed-reality implant driven by biometric fear response",
+      "year": "2016",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "koh-rogers-2016-soft-microfluidic-sweat-device",
+      "name": "Koh et al. (Rogers group) (2016) — soft wearable microfluidic device for sweat capture, storage, and colorimetric sensing",
+      "year": "2016",
+      "corpus": "academic",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "polar-h10-chest-strap-2017",
+      "name": "Polar H10 (2017) — research-grade chest-strap ECG heart-rate sensor",
+      "year": "2017",
+      "corpus": "private",
+      "form_factor": "garment",
+      "ancestors": [
+        "polar-sport-tester-pe2000-1982"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "horizon-zero-dawn-focus",
+      "name": "Horizon Zero Dawn — the 'Focus' (compact ear/temple-worn AR scanner with object analysis and log playback)",
+      "year": "2017",
+      "corpus": "fictional",
+      "form_factor": "earbud",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "stark-iron-spider-suit",
+      "name": "Stark 'Iron Spider' suit with mask HUD and AI ('Karen')",
+      "year": "2017",
+      "corpus": "fictional",
+      "form_factor": "garment",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "proteus-abilify-mycite-2017",
+      "name": "Abilify MyCite (Otsuka / Proteus Digital Health, 2017) — first FDA-approved drug with an ingestible sensor (digital-pill / medication-adherence system)",
+      "year": "2017",
+      "corpus": "private",
+      "form_factor": "ingestible",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-arkangel-implant",
+      "name": "Black Mirror 'Arkangel' parental-monitoring neural implant",
+      "year": "2017",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-crocodile-recaller",
+      "name": "Black Mirror 'Crocodile' — portable memory-extraction device ('the recaller')",
+      "year": "2017",
+      "corpus": "fictional",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fda-k181861-empatica-embrace-seizure-system-2018",
+      "name": "FDA 510(k) K181861 (2018) — Empatica Embrace physiological-signal-based seizure monitoring system",
+      "year": "2018",
+      "corpus": "regulatory",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "heikenfeld-2018-wearable-sensors-lab-on-chip-review",
+      "name": "Heikenfeld et al. (2018) — 'Wearable sensors: modalities, challenges, and prospects'",
+      "year": "2018",
+      "corpus": "academic",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "empatica-embrace2-seizure-watch-2018",
+      "name": "Empatica Embrace2 (2018) — first FDA-cleared seizure-monitoring smartwatch (accelerometer + electrodermal activity)",
+      "year": "2018",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-panther-kimoyo-beads",
+      "name": "Black Panther 'Kimoyo beads'",
+      "year": "2018",
+      "corpus": "fictional",
+      "form_factor": "bracelet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "dexcom-g6-2018",
+      "name": "Dexcom G6 (2018) — no-calibration real-time CGM with predictive low-glucose alert and direct phone streaming",
+      "year": "2018",
+      "corpus": "private",
+      "form_factor": "patch",
+      "ancestors": [
+        "dexcom-sts-2006"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "upgrade-stem-spinal-implant",
+      "name": "Upgrade — 'STEM' spinal AI implant with sensorimotor takeover",
+      "year": "2018",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fda-den170088-dexcom-icgm-2018",
+      "name": "FDA De Novo (2018) — 'integrated continuous glucose monitoring system' (iCGM) classification (Dexcom G6)",
+      "year": "2018",
+      "corpus": "regulatory",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "eversense-implantable-cgm-2018",
+      "name": "Senseonics Eversense (2018) — first long-term implantable continuous glucose monitor (fluorescence sensor + on-skin transmitter)",
+      "year": "2018",
+      "corpus": "private",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fda-den180042-irregular-rhythm-notification-2018",
+      "name": "FDA De Novo DEN180042 (2018) — photoplethysmograph analysis software for over-the-counter irregular-rhythm (possible-AFib) notification (Apple Watch)",
+      "year": "2018",
+      "corpus": "regulatory",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fda-den180044-apple-watch-ecg-app-2018",
+      "name": "FDA De Novo DEN180044 (2018) — over-the-counter electrocardiograph software for use in detecting atrial fibrillation (Apple Watch ECG app)",
+      "year": "2018",
+      "corpus": "regulatory",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "apple-watch-series4-ecg-2018",
+      "name": "Apple Watch Series 4 (2018) — wrist single-lead ECG and PPG-based irregular-rhythm notification",
+      "year": "2018",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "abbott-freestyle-libre-2-2018",
+      "name": "Abbott FreeStyle Libre 2 (2018) — factory-calibrated CGM patch with real-time Bluetooth streaming and optional glucose alarms",
+      "year": "2018",
+      "corpus": "private",
+      "form_factor": "patch",
+      "ancestors": [
+        "abbott-freestyle-libre-2014"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "ctrl-labs-meta-wrist-emg-2018",
+      "name": "CTRL-labs (later Meta) wrist surface-EMG band (2018) — neural-interface wristband for finger/hand intent decoding",
+      "year": "2018",
+      "corpus": "private",
+      "form_factor": "armband",
+      "ancestors": [
+        "englehart-hudgins-2003-myoelectric-control",
+        "myo-armband-2014"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "omron-heartguide-2019",
+      "name": "Omron HeartGuide (2019) — wristwatch with an inflatable oscillometric blood-pressure cuff in the band",
+      "year": "2019",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "black-mirror-striking-vipers-temple-disc",
+      "name": "Black Mirror 'Striking Vipers' — minimal-form temple disc for full-immersion VR",
+      "year": "2019",
+      "corpus": "fictional",
+      "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "biointellisense-biosticker-2019",
+      "name": "BioIntelliSense BioSticker (2019) — long-wear adhesive chest patch with extensive multi-parameter monitoring",
+      "year": "2019",
+      "corpus": "private",
+      "form_factor": "patch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "withings-scanwatch-2020",
+      "name": "Withings ScanWatch (2020) — hybrid analog watch with PPG, SpO2 pulse oximetry, single-lead ECG, and accelerometer",
+      "year": "2020",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "samsung-galaxy-watch-bp-ecg-2020",
+      "name": "Samsung Galaxy Watch3 / Samsung Health Monitor (2020) — wrist single-lead ECG and optical-PPG cuffless blood pressure",
+      "year": "2020",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "aktiia-bracelet-cuffless-bp-2021",
+      "name": "Aktiia bracelet (2021) — optical-PPG-based continuous cuffless blood-pressure monitoring bracelet",
+      "year": "2021",
+      "corpus": "private",
+      "form_factor": "bracelet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "severance-bifurcation-chip",
+      "name": "Severance — 'severance' brain implant bifurcating consciousness",
+      "year": "2022",
+      "corpus": "fictional",
+      "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "masimo-w1-2022",
+      "name": "Masimo W1 (2022) — first FDA-cleared continuous wrist medical-grade pulse oximetry watch",
+      "year": "2022",
+      "corpus": "private",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "mojo-vision-ar-contact-lens-2022",
+      "name": "Mojo Vision Mojo Lens (2022) — wearable AR contact lens with embedded microLED display",
+      "year": "2022",
+      "corpus": "private",
+      "form_factor": "contact-lens",
+      "ancestors": [
+        "mi-ghost-protocol-contact-lens-camera",
+        "rainbows-end-ar-contact-lens"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "ultrahuman-ring-air-2023",
+      "name": "Ultrahuman Ring AIR (2023) — smart ring with metabolic-focus tracking (PPG, skin temperature, IMU)",
+      "year": "2023",
+      "corpus": "private",
+      "form_factor": "ring",
+      "ancestors": [
+        "oura-ring-gen1-2015"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "samsung-galaxy-ring-2024",
+      "name": "Samsung Galaxy Ring (2024) — smart ring with PPG, skin temperature and accelerometer for HR/HRV, sleep and cycle tracking",
+      "year": "2024",
+      "corpus": "private",
+      "form_factor": "ring",
+      "ancestors": [
+        "oura-ring-gen1-2015"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "apple-airpods-pro-2-hearing-health-2024",
+      "name": "Apple AirPods Pro 2 Hearing Health (2024) — earbuds as a clinical hearing test, OTC hearing aid, and hearing protection",
+      "year": "2024",
+      "corpus": "private",
+      "form_factor": "earbud",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "zanetti-aminifar-atienza-eglass-2025",
+      "name": "e-Glass (Zanetti, Aminifar, Atienza; EPFL, 2025) — wearable EEG eyeglasses",
+      "year": "2025",
+      "corpus": "academic",
+      "form_factor": "glasses",
+      "ancestors": [],
+      "descendants": []
+    }
+  ],
+  "warnings": [],
+  "cycles": []
+}
