@@ -17,7 +17,7 @@
 | Ancoli-Israel et al. (2003) — 'The role of actigraphy in the study of sleep and circadian rhythms' | `ancoli-israel-2003-actigraphy-review` | 2003 | academic | watch | public-domain | 1 |  |
 | Ant-Man's cybernetic helmet (head-worn interspecies signaling device) | `ant-man-cybernetic-helmet` | 1962 | fictional | helmet | fictional | 2 |  |
 | Aoyagi (1974) — two-wavelength pulse oximetry principle | `aoyagi-1974-two-wavelength-pulse-oximetry` | 1974 | private | other | patented | 1 | DRAFT |
-| Apple AirPods Pro 2 Hearing Health (2024) — earbuds as a clinical hearing test, OTC hearing aid, and hearing protection | `apple-airpods-pro-2-hearing-health-2024` | 2024 | private | earbud | patented | 1 | DRAFT |
+| Apple AirPods Pro 2 Hearing Health (2024) — earbuds as a clinical hearing test, OTC hearing aid, and hearing protection | `apple-airpods-pro-2-hearing-health-2024` | 2024 | private | earbud | patented | 1 |  |
 | Apple Watch (1st generation, 2015) — wrist green-PPG heart rate and activity | `apple-watch-original-2015` | 2015 | private | watch | patented | 1 |  |
 | Apple Watch Series 4 (2018) — wrist single-lead ECG and PPG-based irregular-rhythm notification | `apple-watch-series4-ecg-2018` | 2018 | private | watch | patented | 1 | DRAFT |
 | Aserinsky & Kleitman (1953) — discovery of REM sleep via electrooculography | `aserinsky-kleitman-1953-rem-sleep` | 1953 | academic | other | public-domain | 1 |  |
@@ -129,7 +129,7 @@
 | Logan's Run 'Lifeclock' palm crystal | `logans-run-lifeclock` | 1967 | fictional | implantable | fictional | 1 |  |
 | Looney et al. (2012) — 'The in-the-ear recording concept' (ear-EEG) | `looney-mandic-2012-in-ear-eeg` | 2012 | academic | earbud | public-domain | 1 |  |
 | Magneto's helmet (telepathy-shielding headgear) | `magneto-helmet` | 1963 | fictional | helmet | fictional | 2 |  |
-| Masimo W1 (2022) — first FDA-cleared continuous wrist medical-grade pulse oximetry watch | `masimo-w1-2022` | 2022 | private | watch | patented | 1 | DRAFT |
+| Masimo W1 (2022) — first FDA-cleared continuous wrist medical-grade pulse oximetry watch | `masimo-w1-2022` | 2022 | private | watch | patented | 1 |  |
 | Mass Effect — the 'omni-tool' (forearm-worn device with projected holographic interface and medical scanning) | `mass-effect-omni-tool` | 2007 | fictional | armband | fictional | 1 |  |
 | Medtronic MiniMed CGMS (1999) — first FDA-cleared continuous glucose monitoring system | `medtronic-minimed-cgms-1999` | 1999 | private | patch | patented | 1 |  |
 | Mendelson & Ochs (1988) — reflectance-mode pulse oximetry / skin-reflectance PPG | `mendelson-ochs-1988-reflectance-pulse-oximetry` | 1988 | academic | other | public-domain | 1 |  |
