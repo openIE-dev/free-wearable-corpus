@@ -10,14 +10,14 @@ Axis: **sensors**
 
 **2 corpus entries disclose this tag.**
 
-Earliest disclosure: 2017-11-13
+Earliest disclosure: 2017-11-14
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
 
-## Abilify MyCite (Otsuka / Proteus Digital Health, 2017) — first FDA-approved drug with an ingestible sensor (digital-pill / medication-adherence system) (2017-11-13)
+## Abilify MyCite (Otsuka / Proteus Digital Health, 2017) — first FDA-approved drug with an ingestible sensor (digital-pill / medication-adherence system) (2017-11-14)
 
 - **id**: `proteus-abilify-mycite-2017`
 - **corpus**: private

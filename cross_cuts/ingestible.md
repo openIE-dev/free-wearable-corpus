@@ -59,7 +59,7 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-camera-rgb
 - **prior art notes**: Discloses the commercial ingestible imaging capsule: a swallowable CMOS-camera capsule with onboard illumination, battery and radio, imaging the GI mucosa during transit and streaming frames to a body-worn receiver/recorder. Product realization of [[iddan-2000-wireless-capsule-endoscopy]]; anticipates ingestible-camera claims from 2001. Anchor for the ingestible × camera cross-cut on the real side.
 
-## Abilify MyCite (Otsuka / Proteus Digital Health, 2017) — first FDA-approved drug with an ingestible sensor (digital-pill / medication-adherence system) (2017-11-13)
+## Abilify MyCite (Otsuka / Proteus Digital Health, 2017) — first FDA-approved drug with an ingestible sensor (digital-pill / medication-adherence system) (2017-11-14)
 
 - **id**: `proteus-abilify-mycite-2017`
 - **corpus**: private

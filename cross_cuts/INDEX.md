@@ -62,7 +62,7 @@ Three families:
 | [`sensor-accelerometer`](sensor-accelerometer.html) | 45 | 1959-10 |
 | [`sensor-alcohol-transdermal`](sensor-alcohol-transdermal.html) | 1 | 2014-07 |
 | [`sensor-barometer`](sensor-barometer.html) | 3 | 2014-10-30 |
-| [`sensor-bioimpedance`](sensor-bioimpedance.html) | 2 | 2017-11-13 |
+| [`sensor-bioimpedance`](sensor-bioimpedance.html) | 2 | 2017-11-14 |
 | [`sensor-camera-eye`](sensor-camera-eye.html) | 6 | 1968 |
 | [`sensor-camera-ir`](sensor-camera-ir.html) | 18 | 1959-10 |
 | [`sensor-camera-rgb`](sensor-camera-rgb.html) | 25 | 1962-09-23 |

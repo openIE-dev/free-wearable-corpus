@@ -11,7 +11,7 @@
 | Abilify MyCite (Otsuka / Proteus Digital Health, 2017) — first FDA-approved drug with an ingestible sensor (digital-pill / medication-adherence system) | `proteus-abilify-mycite-2017` | 2017 | private | ingestible | patented | 1 | DRAFT |
 | Aktiia bracelet (2021) — optical-PPG-based continuous cuffless blood-pressure monitoring bracelet | `aktiia-bracelet-cuffless-bp-2021` | 2021 | private | bracelet | patented | 1 | DRAFT |
 | Aliens — Colonial Marine helmet camera with live command feed | `aliens-marine-helmet-cam` | 1986 | fictional | helmet | fictional | 1 |  |
-| AliveCor Heart Monitor / KardiaMobile (2012) — smartphone-coupled single-lead ECG | `alivecor-kardiamobile-2012` | 2012 | private | other | patented | 1 | DRAFT |
+| AliveCor Heart Monitor / KardiaMobile (2012) — smartphone-coupled single-lead ECG | `alivecor-kardiamobile-2012` | 2012 | private | other | patented | 1 |  |
 | Allen (2007) — 'Photoplethysmography and its application in clinical physiological measurement' | `allen-2007-ppg-review` | 2007 | academic | other | public-domain | 1 |  |
 | Altered Carbon — 'cortical stack' cervical-spine consciousness store | `altered-carbon-cortical-stack` | 2002 | fictional | implantable | fictional | 1 |  |
 | Ancoli-Israel et al. (2003) — 'The role of actigraphy in the study of sleep and circadian rhythms' | `ancoli-israel-2003-actigraphy-review` | 2003 | academic | watch | public-domain | 1 |  |
@@ -61,7 +61,7 @@
 | Debener et al. (2015) — cEEGrid: unobtrusive around-the-ear EEG with flexible printed electrodes | `debener-2015-ceegrid-around-ear-eeg` | 2015 | academic | patch | public-domain | 1 |  |
 | Demolition Man subcutaneous tracking implant and ambient sensing 'fine machine' | `demolition-man-tracking-implant` | 1993 | fictional | implantable | fictional | 1 |  |
 | Dexcom G6 (2018) — no-calibration real-time CGM with predictive low-glucose alert and direct phone streaming | `dexcom-g6-2018` | 2018 | private | patch | patented | 1 |  |
-| Dexcom STS (2006) — early real-time continuous glucose monitoring system | `dexcom-sts-2006` | 2006 | private | patch | patented | 1 | DRAFT |
+| Dexcom STS (2006) — early real-time continuous glucose monitoring system | `dexcom-sts-2006` | 2006 | private | patch | patented | 1 |  |
 | Dick Tracy 2-Way Wrist Radio | `dick-tracy-2way-wrist-radio` | 1946 | fictional | watch | fictional | 1 |  |
 | Dick Tracy 2-Way Wrist TV | `dick-tracy-2way-wrist-tv` | 1964 | fictional | watch | fictional | 1 |  |
 | Digimon — 'Digivice' (worn companion-monitoring device) | `digimon-digivice` | 1999 | fictional | pendant | fictional | 2 |  |
@@ -98,7 +98,7 @@
 | Geordi La Forge's VISOR (Star Trek: TNG) | `star-trek-tng-visor` | 1987 | fictional | glasses | fictional | 1 |  |
 | Get Smart shoe phone | `get-smart-shoe-phone` | 1965 | fictional | shoe | fictional | 2 |  |
 | Ghost in the Shell — cyberbrain neural-interface implant and cyberbody monitoring | `ghost-in-the-shell-cyberbrain` | 1989 | fictional | implantable | fictional | 1 |  |
-| Google[X] / Verily smart contact lens (2014) — tear-glucose-sensing contact lens project | `verily-google-smart-contact-lens-2014` | 2014 | private | contact-lens | patented | 1 | DRAFT |
+| Google[X] / Verily smart contact lens (2014) — tear-glucose-sensing contact lens project | `verily-google-smart-contact-lens-2014` | 2014 | private | contact-lens | patented | 1 |  |
 | Green Lantern power ring | `green-lantern-power-ring` | 1940 | fictional | ring | fictional | 2 |  |
 | Halo — MJOLNIR powered armor (powered exoskeleton with energy shield, HUD, integrated AI, and biofoam medical system) | `halo-mjolnir-armor` | 2001 | fictional | exoskeleton | fictional | 1 |  |
 | Halting State AR glasses ('CopSpace' and ARG overlays) | `halting-state-ar-glasses` | 2007 | fictional | glasses | fictional | 1 |  |
@@ -220,14 +220,14 @@
 | Updike & Hicks (1967) — the practical glucose enzyme electrode | `updike-hicks-1967-enzyme-electrode` | 1967 | academic | other | public-domain | 1 |  |
 | Upgrade — 'STEM' spinal AI implant with sensorimotor takeover | `upgrade-stem-spinal-implant` | 2018 | fictional | implantable | fictional | 1 |  |
 | Venom symbiote — adaptive symbiotic worn covering responsive to wearer state | `venom-symbiote-suit` | 1984 | fictional | garment | fictional | 2 |  |
-| VitalConnect VitalPatch (2016) — adhesive chest patch with single-lead ECG and multi-parameter monitoring | `vitalconnect-vitalpatch-2016` | 2016 | private | patch | patented | 1 | DRAFT |
+| VitalConnect VitalPatch (2016) — adhesive chest patch with single-lead ECG and multi-parameter monitoring | `vitalconnect-vitalpatch-2016` | 2016 | private | patch | patented | 1 |  |
 | Wallace & Gromit 'Techno Trousers' (powered automated legwear) | `wallace-gromit-techno-trousers` | 1993 | fictional | garment | fictional | 1 |  |
 | Webster (ed.) (1997) — 'Design of Pulse Oximeters' | `webster-1997-design-of-pulse-oximeters` | 1997 | academic | other | public-domain | 1 |  |
 | Westworld — host 'control unit' and continuous body telemetry | `westworld-host-control-unit` | 2016 | fictional | implantable | fictional | 1 |  |
 | WHOOP Strap (2015) — display-less wrist/bicep PPG band for continuous HR/HRV, sleep and recovery | `whoop-strap-2015` | 2015 | private | bracelet | patented | 1 | DRAFT |
 | Williams et al. (1998) — accelerometer-based automatic fall and activity monitor for telecare | `williams-1998-automatic-fall-detector` | 1998 | academic | belt | unknown | 1 |  |
 | Winged sandals of Hermes/Mercury (the talaria) | `mercury-winged-sandals-talaria` | -060 | fictional | shoe | fictional | 2 |  |
-| Withings ScanWatch (2020) — hybrid analog watch with PPG, SpO2 pulse oximetry, single-lead ECG, and accelerometer | `withings-scanwatch-2020` | 2020 | private | watch | patented | 1 | DRAFT |
+| Withings ScanWatch (2020) — hybrid analog watch with PPG, SpO2 pulse oximetry, single-lead ECG, and accelerometer | `withings-scanwatch-2020` | 2020 | private | watch | patented | 1 |  |
 | Wolpaw et al. (2002) — 'Brain-computer interfaces for communication and control' | `wolpaw-2002-bci-review` | 2002 | academic | other | public-domain | 1 |  |
 | Wonder Woman's bracelets (Bracelets of Submission) | `wonder-woman-bracelets` | 1941 | fictional | bracelet | fictional | 2 |  |
 | Yao et al. (Parviz group) (2011) — contact lens with embedded electrochemical sensor for tear glucose | `yao-parviz-2011-contact-lens-glucose-sensor` | 2011 | academic | contact-lens | public-domain | 1 |  |
