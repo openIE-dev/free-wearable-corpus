@@ -14,8 +14,9 @@ __pycache__/
 .DS_Store
 ._*
 
-# release intermediates (the .tsq is regenerated each run)
+# release intermediates (the .tsq is regenerated each run; .ots.bak is the ots-upgrade backup)
 *.tsq
+*.ots.bak
 
 # scaffolder outputs (one-off, meant to be hand-merged into corpus.jsonl)
 entry-*.jsonl

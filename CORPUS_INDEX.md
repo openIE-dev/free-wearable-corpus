@@ -18,7 +18,7 @@
 | Ant-Man's cybernetic helmet (head-worn interspecies signaling device) | `ant-man-cybernetic-helmet` | 1962 | fictional | helmet | fictional | 2 |  |
 | Aoyagi (1974) — two-wavelength pulse oximetry principle | `aoyagi-1974-two-wavelength-pulse-oximetry` | 1974 | private | other | patented | 1 | DRAFT |
 | Apple AirPods Pro 2 Hearing Health (2024) — earbuds as a clinical hearing test, OTC hearing aid, and hearing protection | `apple-airpods-pro-2-hearing-health-2024` | 2024 | private | earbud | patented | 1 | DRAFT |
-| Apple Watch (1st generation, 2015) — wrist green-PPG heart rate and activity | `apple-watch-original-2015` | 2015 | private | watch | patented | 1 | DRAFT |
+| Apple Watch (1st generation, 2015) — wrist green-PPG heart rate and activity | `apple-watch-original-2015` | 2015 | private | watch | patented | 1 |  |
 | Apple Watch Series 4 (2018) — wrist single-lead ECG and PPG-based irregular-rhythm notification | `apple-watch-series4-ecg-2018` | 2018 | private | watch | patented | 1 | DRAFT |
 | Aserinsky & Kleitman (1953) — discovery of REM sleep via electrooculography | `aserinsky-kleitman-1953-rem-sleep` | 1953 | academic | other | public-domain | 1 |  |
 | Axon Body 2 (2016) — networked law-enforcement body-worn camera with cloud digital-evidence chain of custody | `axon-body-2-police-bodycam-2016` | 2016 | private | body-camera | patented | 1 | DRAFT |
@@ -131,7 +131,7 @@
 | Magneto's helmet (telepathy-shielding headgear) | `magneto-helmet` | 1963 | fictional | helmet | fictional | 2 |  |
 | Masimo W1 (2022) — first FDA-cleared continuous wrist medical-grade pulse oximetry watch | `masimo-w1-2022` | 2022 | private | watch | patented | 1 | DRAFT |
 | Mass Effect — the 'omni-tool' (forearm-worn device with projected holographic interface and medical scanning) | `mass-effect-omni-tool` | 2007 | fictional | armband | fictional | 1 |  |
-| Medtronic MiniMed CGMS (1999) — first FDA-cleared continuous glucose monitoring system | `medtronic-minimed-cgms-1999` | 1999 | private | patch | patented | 1 | DRAFT |
+| Medtronic MiniMed CGMS (1999) — first FDA-cleared continuous glucose monitoring system | `medtronic-minimed-cgms-1999` | 1999 | private | patch | patented | 1 |  |
 | Mendelson & Ochs (1988) — reflectance-mode pulse oximetry / skin-reflectance PPG | `mendelson-ochs-1988-reflectance-pulse-oximetry` | 1988 | academic | other | public-domain | 1 |  |
 | Metal Gear Solid — 'Sneaking Suit' with body monitoring and the 'Solid Eye' (monocular multi-mode HUD) | `metal-gear-solid-sneaking-suit-and-solid-eye` | 1998 | fictional | garment | fictional | 1 |  |
 | Metroid — Samus Aran's Power Suit (powered armor with multi-mode scan visor and health/environment systems) | `metroid-power-suit` | 1986 | fictional | exoskeleton | fictional | 1 |  |
