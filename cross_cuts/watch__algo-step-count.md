@@ -8,7 +8,7 @@ layout: default
 
 Axes: **form_factor × algorithms**
 
-**8 corpus entries disclose both tags.**
+**12 corpus entries disclose both tags.**
 
 Earliest disclosure: 2003
 
@@ -77,6 +77,18 @@ These entries are the direct inputs to [OBVIOUSNESS_TEMPLATE.md](../OBVIOUSNESS_
 - **algorithms**: algo-hr, algo-step-count, algo-calorie-estimation, algo-activity-classification
 - **prior art notes**: Discloses a wristworn device with a dorsal-wrist green-LED photoplethysmography heart-rate sensor (with IR for low-perfusion conditions), inertial sensors, and continuous HR/activity tracking. Anticipates wristworn-PPG-HR claims to the extent they postdate April 2015; combined with the much earlier PPG principle ([[hertzman-1937-photoplethysmography]]) and wrist form factor, the combination is in any case obvious under [[obviousness-template]]. Product-side anchor for the watch × PPG cross-cut.
 
+## Pine64 PineTime (2018-2020) — low-cost open-source smartwatch (2018-09)
+
+- **id**: `pine64-pinetime-2020`
+- **corpus**: open
+- **form factor**: watch
+- **creator**: Pine Store Ltd. (Pine64)
+- **disclosure**: Pine64. 'PineTime' open-source smartwatch — first announced September 2018, dev-kit shipping early 2020, sealed units (~US$30) shipping from late 2020. Hardware: Nordic nRF52832 (ARM Cortex-M4), heart-rate monitor, 3-axis accelerometer, touchscreen, BLE. Open firmware: 'InfiniTime' (C++/FreeRTOS) at github.com/InfiniTimeOrg/InfiniTime; 'Wasp-OS' (Python/MicroPython) at github.com/daniel-thompson/wasp-os. Hardware schematics at wiki.pine64.org/wiki/PineTime. https://pine64.com/product/pinetime-smartwatch-sealed/
+- **ip status**: open-permissive
+- **sensors**: sensor-ppg, sensor-accelerometer
+- **algorithms**: algo-hr, algo-step-count
+- **prior art notes**: Discloses a low-cost (US$30) wrist-worn smartwatch with PPG-HR sensor, accelerometer, touchscreen, BLE, and fully open-source firmware (InfiniTime in C++/FreeRTOS, or Wasp-OS in Python/MicroPython on the same hardware) and published hardware schematics. Establishes (since 2018-2020) that the basic smartwatch architecture — MCU + PPG + accel + display + BLE + open firmware — is unencumbered open-hardware prior art. Distinct from [[healthypi-move-2026]] in being earlier and simpler; together they establish open-watch prior art across a >5-year span.
+
 ## Omron HeartGuide (2019) — wristwatch with an inflatable oscillometric blood-pressure cuff in the band (2019-01-08)
 
 - **id**: `omron-heartguide-2019`
@@ -100,3 +112,39 @@ These entries are the direct inputs to [OBVIOUSNESS_TEMPLATE.md](../OBVIOUSNESS_
 - **sensors**: sensor-ppg, sensor-spo2, sensor-ecg, sensor-accelerometer, sensor-barometer
 - **algorithms**: algo-hr, algo-spo2-estimation, algo-afib-detection, algo-arrhythmia-classification, algo-sleep-staging, algo-step-count, algo-respiratory-rate
 - **prior art notes**: Discloses a wristwatch combining reflectance-PPG heart rate, pulse-oximetry SpO2, a single-lead ECG with AF detection, accelerometry, and an altimeter, with sleep-apnea screening (from the SpO2/respiration signals) — multiple regulated cardiorespiratory measurements in one consumer watch. Anticipates multi-modal medical-smartwatch claims reciting combinations of wrist PPG-HR + wrist SpO2 + single-lead ECG from 2020. Product-side anchor for the watch × {PPG, SpO2, ECG} multi-sensor cross-cut.
+
+## Bangle.js 2 (Espruino, 2021) — open JavaScript-app smartwatch validated in academic research (2021)
+
+- **id**: `bangle-js-2-2021`
+- **corpus**: open
+- **form factor**: watch
+- **creator**: Pur3 Ltd. (Gordon Williams, Espruino)
+- **disclosure**: Espruino / Pur3 Ltd. 'Bangle.js 2', released 2021 — Nordic nRF52840 (ARM Cortex-M4), GPS, heart rate, 3-axis accelerometer, magnetometer, pressure sensor; 4-week battery life; JavaScript app development with web-based app loader. https://banglejs.com . Validated for step counting and heart-rate measurement in academic research (multi-subject MDPI study).
+- **ip status**: open-permissive
+- **sensors**: sensor-ppg, sensor-accelerometer, sensor-magnetometer, sensor-barometer
+- **algorithms**: algo-hr, algo-step-count, algo-activity-classification
+- **prior art notes**: Discloses an open-hardware smartwatch with PPG + IMU + magnetometer + barometer + GPS, web-loaded JavaScript apps, and 4-week battery life — validated against reference devices in peer-reviewed studies for step counting and HR. As open-source hardware released in 2021 it is unencumbered prior art against patents reciting the open-firmware-platform smartwatch with this sensor set.
+
+## Open-Watch (Salar Motlaqolahi, 2021) — fully documented open STM32 smartwatch (BSc thesis) (2021)
+
+- **id**: `smotlaq-open-watch-2021`
+- **corpus**: open
+- **form factor**: watch
+- **creator**: Salar Motlaqolahi
+- **disclosure**: Motlaqolahi S. 'Open-Watch' — fully open-source smartwatch released as BSc thesis output (MIT license). Hardware: STM32 ARM Cortex-M MCU, MPU6050 6-axis IMU, MAX30102 reflectance PPG + SpO2, 4-layer PCB sponsored by PCBWay, full schematics + Gerbers + firmware published. https://github.com/SMotlaq/open-watch
+- **ip status**: open-permissive
+- **sensors**: sensor-ppg, sensor-spo2, sensor-accelerometer, sensor-gyroscope
+- **algorithms**: algo-hr, algo-spo2-estimation, algo-step-count
+- **prior art notes**: Discloses, as an MIT-licensed open-hardware smartwatch with full PCB design files (4-layer, PCBWay-sponsored fabrication) and firmware published, a wrist-worn device with reflectance PPG + SpO2 + 6-axis IMU + MCU + display. Demonstrates that the entire smartwatch design — schematic, layout, firmware — can be reproduced from undergraduate-thesis-level public work, defeating any claim that the integrated smartwatch is novel as a combination.
+
+## HealthyPi Move (ProtoCentral, 2026) — open-source medical-grade smartwatch (2024)
+
+- **id**: `healthypi-move-2026`
+- **corpus**: open
+- **form factor**: watch
+- **creator**: ProtoCentral Electronics
+- **disclosure**: ProtoCentral Electronics (Bengaluru, India). 'HealthyPi Move' fully open-source AMOLED smartwatch — Crowd Supply campaign launched 2024, units shipping 15 May 2026. Sensors: single-lead ECG, dual-site PPG (wrist + finger), SpO2, blood-pressure trending, EDA/GSR, heart rate, HRV, respiration rate (derived), body temperature, 6-axis IMU. Compute: Nordic nRF5340 (dual ARM Cortex-M33). Display: AMOLED, 300 mAh battery. Companion app: Flutter, runs on Android/iOS/macOS/Windows/Linux, all data stored locally. Hardware design, firmware (Zephyr RTOS on nRF Connect SDK), and companion app all open-source. https://www.crowdsupply.com/protocentral/healthypi-move
+- **ip status**: open-permissive
+- **sensors**: sensor-ecg, sensor-ppg, sensor-spo2, sensor-multi-wavelength-ppg, sensor-gsr, sensor-accelerometer, sensor-gyroscope, sensor-skin-temperature
+- **algorithms**: algo-hr, algo-hrv, algo-spo2-estimation, algo-respiratory-rate, algo-pwv-bp-estimation, algo-sleep-staging, algo-activity-classification, algo-step-count
+- **prior art notes**: Discloses, as fully open-source hardware and firmware (CC and MIT-style licensing across components), a wrist-worn smartwatch with the full consumer-medical sensor stack: single-lead ECG between back-of-watch electrode and a finger-touch electrode; multi-wavelength reflectance PPG with SpO2 and BP-trending; EDA/GSR; skin temperature; 6-axis IMU; on-device Zephyr-RTOS application; AMOLED display; all-local data storage via cross-platform Flutter app. Anticipates wrist-multi-sensor-watch claims from 2024-2026 to the extent they recite combinations of these elements; as `open` prior art it is unencumbered and any patent claim reciting these combinations must distinguish over HealthyPi Move's specific implementation. The product-side anchor for the 'open watch with the full sensor stack' cross-cut.

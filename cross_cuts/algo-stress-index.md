@@ -8,7 +8,7 @@ layout: default
 
 Axis: **algorithms**
 
-**4 corpus entries disclose this tag.**
+**5 corpus entries disclose this tag.**
 
 Earliest disclosure: 1996-03
 
@@ -64,3 +64,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-accelerometer, sensor-gyroscope, sensor-gsr, sensor-skin-temperature
 - **algorithms**: algo-seizure-detection, algo-stress-index, algo-activity-classification
 - **prior art notes**: Discloses a wristworn device that detects probable generalized tonic-clonic seizures by combining a motion (accelerometer/gyroscope) signature with an electrodermal-activity (sympathetic-surge) signature in an on-device classifier, and alerts caregivers — i.e. multimodal wrist-based seizure detection, distinct from the EEG-based approach. Anticipates wrist-seizure-detection claims combining 'a wrist-worn accelerometer and an electrodermal-activity sensor' and 'a classifier flagging a seizure from their combined signal' from 2018. Product-side anchor for the wrist × seizure-detection cross-cut; complementary to the EEG route in [[zanetti-aminifar-atienza-eglass-2025]] and [[chb-mit-scalp-eeg-database-2009]].
+
+## CogWatch (HardwareX, 2024) — open-source smartwatch for cognitive-load monitoring (2024)
+
+- **id**: `cogwatch-2024-hardwarex`
+- **corpus**: academic
+- **form factor**: watch
+- **creator**: (See HardwareX publication for full author list.)
+- **disclosure**: 'CogWatch: An open-source smartwatch platform for cognitive-load monitoring.' HardwareX 19 (2024). Open-source smartwatch design — full hardware, firmware, and assembly documentation published in the open-hardware-focused journal HardwareX (Elsevier). https://www.hardware-x.com/article/S2468-0672(24)00032-4/fulltext
+- **ip status**: public-domain
+- **sensors**: sensor-ppg, sensor-gsr, sensor-accelerometer
+- **algorithms**: algo-hr, algo-hrv, algo-stress-index, algo-cognitive-workload
+- **prior art notes**: Discloses, as open-hardware (HardwareX is the canonical venue for full publication of open-hardware designs), a wrist-worn smartwatch instrumented for cognitive-load monitoring from PPG-derived HRV and EDA/GSR. Prior art for smartwatch-cognitive-load claims combining 'a wrist-worn device', 'PPG and EDA sensors', and 'a derived cognitive-load metric' from 2024.

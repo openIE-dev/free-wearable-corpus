@@ -1275,6 +1275,15 @@
       "descendants": []
     },
     {
+      "id": "sensimed-triggerfish-iop-contact-lens-2009",
+      "name": "Sensimed Triggerfish (2009) — the only commercially shipping smart contact lens (24-h intraocular pressure monitoring for glaucoma)",
+      "year": "2009",
+      "corpus": "private",
+      "form_factor": "contact-lens",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "repo-men-organ-transponder",
       "name": "Repo Men — artificial organ implant with built-in monitoring/repossession transponder",
       "year": "2009",
@@ -1327,6 +1336,15 @@
       "year": "2009",
       "corpus": "private",
       "form_factor": "headband",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pandey-2010-rf-powered-contact-lens",
+      "name": "Pandey et al. (2010) — 'A fully integrated RF-powered contact lens' (the disclosure root of ambient-RF-powered wearables)",
+      "year": "2010",
+      "corpus": "academic",
+      "form_factor": "contact-lens",
       "ancestors": [],
       "descendants": []
     },
@@ -1912,6 +1930,15 @@
       "descendants": []
     },
     {
+      "id": "tap-systems-tap-strap-2018",
+      "name": "Tap Strap (Tap Systems, 2018) — finger-mounted gesture and keyboard input device",
+      "year": "2018",
+      "corpus": "private",
+      "form_factor": "other",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "heikenfeld-2018-wearable-sensors-lab-on-chip-review",
       "name": "Heikenfeld et al. (2018) — 'Wearable sensors: modalities, challenges, and prospects'",
       "year": "2018",
@@ -1973,6 +2000,15 @@
       "year": "2018",
       "corpus": "private",
       "form_factor": "implantable",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pine64-pinetime-2020",
+      "name": "Pine64 PineTime (2018-2020) — low-cost open-source smartwatch",
+      "year": "2018",
+      "corpus": "open",
+      "form_factor": "watch",
       "ancestors": [],
       "descendants": []
     },
@@ -2072,11 +2108,38 @@
       "descendants": []
     },
     {
+      "id": "bangle-js-2-2021",
+      "name": "Bangle.js 2 (Espruino, 2021) — open JavaScript-app smartwatch validated in academic research",
+      "year": "2021",
+      "corpus": "open",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "smotlaq-open-watch-2021",
+      "name": "Open-Watch (Salar Motlaqolahi, 2021) — fully documented open STM32 smartwatch (BSc thesis)",
+      "year": "2021",
+      "corpus": "open",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "aktiia-bracelet-cuffless-bp-2021",
       "name": "Aktiia bracelet (2021) — optical-PPG-based continuous cuffless blood-pressure monitoring bracelet",
       "year": "2021",
       "corpus": "private",
       "form_factor": "bracelet",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "xpanceo-ar-contact-lens-2024",
+      "name": "XPANCEO smart contact lens (2024) — Dubai-based AR/biosensor contact lens project",
+      "year": "2022",
+      "corpus": "private",
+      "form_factor": "contact-lens",
       "ancestors": [],
       "descendants": []
     },
@@ -2119,6 +2182,42 @@
       "ancestors": [
         "oura-ring-gen1-2015"
       ],
+      "descendants": []
+    },
+    {
+      "id": "cogwatch-2024-hardwarex",
+      "name": "CogWatch (HardwareX, 2024) — open-source smartwatch for cognitive-load monitoring",
+      "year": "2024",
+      "corpus": "academic",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "h-watch-magno-2024",
+      "name": "H-Watch (Magno et al., 2024) — open-source ARM Cortex-M4F + ML + NB-IoT + energy-harvesting research smartwatch",
+      "year": "2024",
+      "corpus": "academic",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "healthypi-move-2026",
+      "name": "HealthyPi Move (ProtoCentral, 2026) — open-source medical-grade smartwatch",
+      "year": "2024",
+      "corpus": "open",
+      "form_factor": "watch",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "pourshaban-2024-dual-mode-contact-lens-harvester",
+      "name": "Pourshaban et al. (2024) — dual-mode (solar + RF) energy-harvesting contact lens delivering 150 μW at 3.3 V",
+      "year": "2024",
+      "corpus": "academic",
+      "form_factor": "contact-lens",
+      "ancestors": [],
       "descendants": []
     },
     {

@@ -8,7 +8,7 @@ layout: default
 
 Axis: **form_factor**
 
-**12 corpus entries disclose this tag.**
+**13 corpus entries disclose this tag.**
 
 Earliest disclosure: 1937-09-21
 
@@ -78,6 +78,18 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-ecg, sensor-ppg, sensor-cuffless-bp-ptt, sensor-cuffless-bp-tonometry
 - **algorithms**: algo-pwv-bp-estimation
 - **prior art notes**: Canonical 2015 review of cuffless blood-pressure estimation by pulse transit time / pulse arrival time / pulse wave velocity: the physiological models, the practical sensor configurations (ECG+PPG, dual PPG, ballistocardiogram+PPG), the calibration strategies, and the accuracy limitations. Prior art for cuffless-BP wearable claims reciting any of the configurations or calibration approaches surveyed here — they were collected, modeled, and published by 2015. Combined with watch/ring/patch form-factor disclosures, makes wearable PTT-based BP an obvious combination under [[obviousness-template]].
+
+## Tap Strap (Tap Systems, 2018) — finger-mounted gesture and keyboard input device (2018)
+
+- **id**: `tap-systems-tap-strap-2018`
+- **corpus**: private
+- **form factor**: other
+- **creator**: Tap Systems Inc. (founder: Dovid Schick)
+- **disclosure**: Tap Systems Inc. (founded 2014, Sherman Oaks, CA). 'Tap Strap' wearable input device, shipped 2018 — five finger-loops connected by a flexible band across the back of the hand, with accelerometers on each finger detecting tapping and gesture; mapped onto a virtual keyboard, mouse, and gesture commands via BLE. Successor 'Tap Strap 2' (2019) and 'TapXR' (a wrist version, 2023). https://www.tapwithus.com
+- **ip status**: patented
+- **sensors**: sensor-accelerometer
+- **algorithms**: algo-hand-gesture-emg
+- **prior art notes**: Discloses a hand-worn device of multiple finger-loops linked by a back-of-hand band, with motion sensors on each finger detecting per-finger tap and swipe events and mapping them via BLE to a virtual keyboard / mouse / gesture protocol — wearable per-finger gesture input by motion sensing alone (no EMG). Directly relevant prior art for any finger/hand gesture-input wearable, including [[ctrl-labs-meta-wrist-emg-2018]] (EMG route), [[myo-armband-2014]] (forearm-EMG route), and ring-form gesture input devices. Anticipates per-finger-motion-sensor gesture-recognition wearable claims from 2018.
 
 ## Heikenfeld et al. (2018) — 'Wearable sensors: modalities, challenges, and prospects' (2018-01-16)
 

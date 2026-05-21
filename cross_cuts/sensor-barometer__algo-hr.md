@@ -8,7 +8,7 @@ layout: default
 
 Axes: **sensors × algorithms**
 
-**3 corpus entries disclose both tags.**
+**4 corpus entries disclose both tags.**
 
 Earliest disclosure: 2014-10-30
 
@@ -51,3 +51,15 @@ These entries are the direct inputs to [OBVIOUSNESS_TEMPLATE.md](../OBVIOUSNESS_
 - **sensors**: sensor-ppg, sensor-spo2, sensor-ecg, sensor-accelerometer, sensor-barometer
 - **algorithms**: algo-hr, algo-spo2-estimation, algo-afib-detection, algo-arrhythmia-classification, algo-sleep-staging, algo-step-count, algo-respiratory-rate
 - **prior art notes**: Discloses a wristwatch combining reflectance-PPG heart rate, pulse-oximetry SpO2, a single-lead ECG with AF detection, accelerometry, and an altimeter, with sleep-apnea screening (from the SpO2/respiration signals) — multiple regulated cardiorespiratory measurements in one consumer watch. Anticipates multi-modal medical-smartwatch claims reciting combinations of wrist PPG-HR + wrist SpO2 + single-lead ECG from 2020. Product-side anchor for the watch × {PPG, SpO2, ECG} multi-sensor cross-cut.
+
+## Bangle.js 2 (Espruino, 2021) — open JavaScript-app smartwatch validated in academic research (2021)
+
+- **id**: `bangle-js-2-2021`
+- **corpus**: open
+- **form factor**: watch
+- **creator**: Pur3 Ltd. (Gordon Williams, Espruino)
+- **disclosure**: Espruino / Pur3 Ltd. 'Bangle.js 2', released 2021 — Nordic nRF52840 (ARM Cortex-M4), GPS, heart rate, 3-axis accelerometer, magnetometer, pressure sensor; 4-week battery life; JavaScript app development with web-based app loader. https://banglejs.com . Validated for step counting and heart-rate measurement in academic research (multi-subject MDPI study).
+- **ip status**: open-permissive
+- **sensors**: sensor-ppg, sensor-accelerometer, sensor-magnetometer, sensor-barometer
+- **algorithms**: algo-hr, algo-step-count, algo-activity-classification
+- **prior art notes**: Discloses an open-hardware smartwatch with PPG + IMU + magnetometer + barometer + GPS, web-loaded JavaScript apps, and 4-week battery life — validated against reference devices in peer-reviewed studies for step counting and HR. As open-source hardware released in 2021 it is unencumbered prior art against patents reciting the open-firmware-platform smartwatch with this sensor set.

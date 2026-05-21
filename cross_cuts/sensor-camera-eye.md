@@ -8,7 +8,7 @@ layout: default
 
 Axis: **sensors**
 
-**6 corpus entries disclose this tag.**
+**8 corpus entries disclose this tag.**
 
 Earliest disclosure: 1968
 
@@ -64,6 +64,17 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **algorithms**: algo-eye-gaze-tracking
 - **prior art notes**: Discloses AR glasses with switchable, permission-scoped overlay layers (an enterprise/role 'channel' model), networked shared annotations registered to physical locations, gaze-driven UI, and overlapping game/social overlay layers. Relevant to AR-eyewear claims about layer/channel management, location-anchored shared annotations, and access-controlled AR content. § 103 motivation, circa 2007, that multi-layer permissioned networked AR eyewear was a concrete objective.
 
+## Pandey et al. (2010) — 'A fully integrated RF-powered contact lens' (the disclosure root of ambient-RF-powered wearables) (2010)
+
+- **id**: `pandey-2010-rf-powered-contact-lens`
+- **corpus**: academic
+- **form factor**: contact-lens
+- **creator**: Jagdish Pandey / Yu-Te Liao / Andrew Lingley / Ramin Mirjalili / Babak Parviz / Brian Otis (University of Washington)
+- **disclosure**: Pandey J, Liao Y-T, Lingley A, Mirjalili R, Parviz B, Otis BP. 'A fully integrated RF-powered contact lens with a single element display.' IEEE Transactions on Biomedical Circuits and Systems 2010;4(6):454-461. (Inductive RF power harvesting at sub-microwatt budget on a custom CMOS IC integrated onto a contact lens, driving a single-pixel display, with bidirectional wireless data.)
+- **ip status**: public-domain
+- **sensors**: sensor-camera-eye
+- **prior art notes**: The canonical academic disclosure of a complete RF-powered wearable system on a contact lens: ambient-RF energy harvesting + custom sub-microwatt CMOS + integrated single-pixel display + bidirectional wireless data, all on a soft contact-lens substrate. Foundational prior art for any wearable claim reciting 'an ambient-RF-powered sub-microwatt CMOS system on a body-worn substrate' — covers not just contact-lens claims but the broader ambient-RF-powered wearable system architecture (applies to smart rings, hearables, patches, implants). Pair with later follow-ons by the same group and Pourshaban et al. for the dual-mode harvesting variant ([[pourshaban-2024-dual-mode-contact-lens-harvester]]).
+
 - **Black Mirror 'Fifteen Million Merits' — gaze-enforced compulsory viewing** (2011-12-11) — `black-mirror-fifteen-million-merits-gaze-enforcement` [fictional] — Black Mirror, 'Fifteen Million Merits' (Channel 4, 11 December 2011); ubiquitous screens show advertising the viewer is required to watch — closing or averting the eyes triggers an alarm and a penalty…
 ## Mission: Impossible – Ghost Protocol — contact-lens camera and document scanner (2011-12-16)
 
@@ -75,3 +86,14 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **sensors**: sensor-camera-rgb, sensor-camera-eye
 - **prior art notes**: Discloses a corneal contact lens incorporating an image sensor, triggered by an intentional eyelid gesture (double-blink), with on-lens or near-body storage and wireless transmission of the captured imagery. Relevant to contact-lens claims combining 'a contact lens', 'an image sensor', 'a blink-detection trigger', and 'wireless transmission of captured images'. § 103 motivation that the camera-bearing, blink-triggered contact lens was an articulated objective by 2011. Non-enabling on lens-scale optics/power; pair with enabling contact-lens-electronics art.
+
+## XPANCEO smart contact lens (2024) — Dubai-based AR/biosensor contact lens project (2022)
+
+- **id**: `xpanceo-ar-contact-lens-2024`
+- **corpus**: private
+- **form factor**: contact-lens
+- **creator**: XPANCEO (founders: Roman Axelrod, Dr. Valentyn Volkov)
+- **disclosure**: XPANCEO (Dubai, UAE). Smart contact lens project — founded 2021, public demonstrations at CES 2024 / 2025; raised >US$40M to date across multiple rounds; demonstrated working prototypes integrating tunable optics, image projection, eye-tracking, and biochemical sensing within a soft contact lens. The most active contact-lens player as of 2026 in the wake of Mojo Vision's pivot. https://xpanceo.com
+- **ip status**: patented
+- **sensors**: sensor-camera-eye
+- **prior art notes**: Discloses ongoing development of a smart contact lens integrating an embedded display, eye/gaze tracking, and biochemical sensing on a soft ophthalmic contact lens, with substantial venture funding and CES demos. Even without a shipped product, the public demos and disclosures constitute prior art as of 2024 against subsequent contact-lens claims. Complements [[mojo-vision-ar-contact-lens-2022]] (the previous AR-lens project that paused) and [[sensimed-triggerfish-iop-contact-lens-2009]] (the only commercially-shipped smart contact lens).

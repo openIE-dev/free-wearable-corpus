@@ -8,7 +8,7 @@ layout: default
 
 Axis: **algorithms**
 
-**3 corpus entries disclose this tag.**
+**4 corpus entries disclose this tag.**
 
 Earliest disclosure: 2003-07
 
@@ -40,6 +40,18 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-emg, sensor-accelerometer, sensor-gyroscope, sensor-magnetometer
 - **algorithms**: algo-hand-gesture-emg, algo-keystroke-emg
 - **prior art notes**: Discloses a forearm-worn band with an array of eight surface-EMG electrodes plus a 9-axis IMU that recognizes hand/finger gestures from forearm-muscle EMG combined with arm motion/orientation and transmits them wirelessly as a control input. A consumer realization of the myoelectric pattern-recognition approach ([[englehart-hudgins-2003-myoelectric-control]]); anticipates EMG-gesture-armband claims combining 'a band of surface-EMG electrodes worn around the forearm', 'an inertial sensor', and 'a classifier mapping the combined signal to a hand gesture / control command' from 2014. Product-side anchor for the armband × EMG cross-cut (the only `armband` form-factor entry besides [[mass-effect-omni-tool]] and [[fallout-pip-boy]]).
+
+## Tap Strap (Tap Systems, 2018) — finger-mounted gesture and keyboard input device (2018)
+
+- **id**: `tap-systems-tap-strap-2018`
+- **corpus**: private
+- **form factor**: other
+- **creator**: Tap Systems Inc. (founder: Dovid Schick)
+- **disclosure**: Tap Systems Inc. (founded 2014, Sherman Oaks, CA). 'Tap Strap' wearable input device, shipped 2018 — five finger-loops connected by a flexible band across the back of the hand, with accelerometers on each finger detecting tapping and gesture; mapped onto a virtual keyboard, mouse, and gesture commands via BLE. Successor 'Tap Strap 2' (2019) and 'TapXR' (a wrist version, 2023). https://www.tapwithus.com
+- **ip status**: patented
+- **sensors**: sensor-accelerometer
+- **algorithms**: algo-hand-gesture-emg
+- **prior art notes**: Discloses a hand-worn device of multiple finger-loops linked by a back-of-hand band, with motion sensors on each finger detecting per-finger tap and swipe events and mapping them via BLE to a virtual keyboard / mouse / gesture protocol — wearable per-finger gesture input by motion sensing alone (no EMG). Directly relevant prior art for any finger/hand gesture-input wearable, including [[ctrl-labs-meta-wrist-emg-2018]] (EMG route), [[myo-armband-2014]] (forearm-EMG route), and ring-form gesture input devices. Anticipates per-finger-motion-sensor gesture-recognition wearable claims from 2018.
 
 ## CTRL-labs (later Meta) wrist surface-EMG band (2018) — neural-interface wristband for finger/hand intent decoding (2018-10)
 

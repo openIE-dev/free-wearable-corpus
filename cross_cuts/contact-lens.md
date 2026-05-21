@@ -8,7 +8,7 @@ layout: default
 
 Axis: **form_factor**
 
-**10 corpus entries disclose this tag.**
+**14 corpus entries disclose this tag.**
 
 Earliest disclosure: 1984
 
@@ -38,6 +38,28 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-camera-eye, sensor-camera-rgb
 - **algorithms**: algo-eye-gaze-tracking
 - **prior art notes**: Among the most specific fictional anticipations of modern AR eyewear: discloses (a) AR contact lenses rendering registered overlays, (b) clothing-integrated computing and sensing as the host platform, (c) gaze tracking and subtle gesture as the primary input modality, (d) multi-user shared/synchronized overlays and view-sharing, and (e) an open developer ecosystem with competing AR layers. Relevant to AR-contact-lens claims, gaze-controlled AR claims, and shared/collaborative-AR claims. § 103 motivation, circa 2006, toward essentially the entire modern AR-eyewear feature set. Non-enabling on optics and power; pair with enabling contact-lens-display and low-power-display art.
+
+## Sensimed Triggerfish (2009) — the only commercially shipping smart contact lens (24-h intraocular pressure monitoring for glaucoma) (2009)
+
+- **id**: `sensimed-triggerfish-iop-contact-lens-2009`
+- **corpus**: private
+- **form factor**: contact-lens
+- **creator**: Sensimed SA (founders: Bertrand Mercier, Matteo Leonardi)
+- **disclosure**: Sensimed SA (Lausanne, Switzerland). 'Triggerfish' continuous 24-h intraocular pressure (IOP) monitoring contact lens system, CE-marked Class IIa 2009, FDA De Novo (DEN150040) granted March 2016. A soft hydrogel contact lens with embedded strain-gauge antenna whose resonance frequency shifts with circumferential deformation of the cornea (a proxy for IOP), wirelessly read by a periorbital adhesive antenna patch. The only smart contact lens to reach the commercial market for any indication. https://www.sensimed.ch
+- **ip status**: patented
+- **sensors**: sensor-strain-gauge
+- **prior art notes**: Discloses a commercially-shipped smart contact lens for continuous, wirelessly-read measurement of a physiological parameter (intraocular pressure proxy via cornea circumferential strain) — the first and so far only smart contact lens cleared for commercial use anywhere in the world. Anticipates smart-contact-lens claims combining 'a soft ophthalmic contact lens', 'an embedded strain or other sensor measuring a physiological parameter', 'wireless readout to a body-mounted patch', and 'continuous monitoring over a clinically-meaningful interval (24 hours)' from 2009. Anchor for the contact-lens × shipped-medical-device cross-cut; complement to [[yao-parviz-2011-contact-lens-glucose-sensor]] (academic), [[verily-google-smart-contact-lens-2014]] (private, never shipped), and [[mojo-vision-ar-contact-lens-2022]] (AR, never shipped).
+
+## Pandey et al. (2010) — 'A fully integrated RF-powered contact lens' (the disclosure root of ambient-RF-powered wearables) (2010)
+
+- **id**: `pandey-2010-rf-powered-contact-lens`
+- **corpus**: academic
+- **form factor**: contact-lens
+- **creator**: Jagdish Pandey / Yu-Te Liao / Andrew Lingley / Ramin Mirjalili / Babak Parviz / Brian Otis (University of Washington)
+- **disclosure**: Pandey J, Liao Y-T, Lingley A, Mirjalili R, Parviz B, Otis BP. 'A fully integrated RF-powered contact lens with a single element display.' IEEE Transactions on Biomedical Circuits and Systems 2010;4(6):454-461. (Inductive RF power harvesting at sub-microwatt budget on a custom CMOS IC integrated onto a contact lens, driving a single-pixel display, with bidirectional wireless data.)
+- **ip status**: public-domain
+- **sensors**: sensor-camera-eye
+- **prior art notes**: The canonical academic disclosure of a complete RF-powered wearable system on a contact lens: ambient-RF energy harvesting + custom sub-microwatt CMOS + integrated single-pixel display + bidirectional wireless data, all on a soft contact-lens substrate. Foundational prior art for any wearable claim reciting 'an ambient-RF-powered sub-microwatt CMOS system on a body-worn substrate' — covers not just contact-lens claims but the broader ambient-RF-powered wearable system architecture (applies to smart rings, hearables, patches, implants). Pair with later follow-ons by the same group and Pourshaban et al. for the dual-mode harvesting variant ([[pourshaban-2024-dual-mode-contact-lens-harvester]]).
 
 ## Yao et al. (Parviz group) (2011) — contact lens with embedded electrochemical sensor for tear glucose (2011-03-15)
 
@@ -118,6 +140,17 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-ppg, sensor-ecg, sensor-eeg, sensor-glucose-cgm, sensor-lactate, sensor-cortisol, sensor-skin-temperature, sensor-bioimpedance
 - **prior art notes**: Authoritative 2018 review collecting wearable sensing across modalities — physical (motion, BCG/SCG, mechanoacoustic), electrophysiological (ECG/EMG/EEG), optical (PPG/SpO2, near-IR), thermal, electrochemical (sweat, saliva, tears, interstitial), and stimulation-coupled — across form factors (patch, watch, tattoo, contact lens, garment) and the challenges of body-fluid sampling, calibration, motion-artifact handling, and skin-electronics interfacing. Prior art establishing that the modality/form-factor combinations enumerated here were collected and surveyed by 2018; useful against later claims to those combinations. General anchor.
 
+## XPANCEO smart contact lens (2024) — Dubai-based AR/biosensor contact lens project (2022)
+
+- **id**: `xpanceo-ar-contact-lens-2024`
+- **corpus**: private
+- **form factor**: contact-lens
+- **creator**: XPANCEO (founders: Roman Axelrod, Dr. Valentyn Volkov)
+- **disclosure**: XPANCEO (Dubai, UAE). Smart contact lens project — founded 2021, public demonstrations at CES 2024 / 2025; raised >US$40M to date across multiple rounds; demonstrated working prototypes integrating tunable optics, image projection, eye-tracking, and biochemical sensing within a soft contact lens. The most active contact-lens player as of 2026 in the wake of Mojo Vision's pivot. https://xpanceo.com
+- **ip status**: patented
+- **sensors**: sensor-camera-eye
+- **prior art notes**: Discloses ongoing development of a smart contact lens integrating an embedded display, eye/gaze tracking, and biochemical sensing on a soft ophthalmic contact lens, with substantial venture funding and CES demos. Even without a shipped product, the public demos and disclosures constitute prior art as of 2024 against subsequent contact-lens claims. Complements [[mojo-vision-ar-contact-lens-2022]] (the previous AR-lens project that paused) and [[sensimed-triggerfish-iop-contact-lens-2009]] (the only commercially-shipped smart contact lens).
+
 ## Mojo Vision Mojo Lens (2022) — wearable AR contact lens with embedded microLED display (2022-06)
 
 - **id**: `mojo-vision-ar-contact-lens-2022`
@@ -129,3 +162,13 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-accelerometer, sensor-gyroscope, sensor-magnetometer
 - **algorithms**: algo-eye-gaze-tracking
 - **prior art notes**: Discloses a contact lens with an embedded microLED display in the central visual field, on-lens processing, gaze tracking via inertial/magnetic sensors, wireless RF link, and a wirelessly charged on-lens battery — i.e. an AR display contact lens worn on the cornea. Anticipates AR-contact-lens claims combining 'a contact lens', 'an embedded near-eye microdisplay', 'on-lens processing and motion sensors for gaze', and 'a wireless link' from 2022. Product-side anchor for the contact-lens × visual-display cross-cut; cf. [[rainbows-end-ar-contact-lens]] (the 2006 fictional anticipation).
+
+## Pourshaban et al. (2024) — dual-mode (solar + RF) energy-harvesting contact lens delivering 150 μW at 3.3 V (2024)
+
+- **id**: `pourshaban-2024-dual-mode-contact-lens-harvester`
+- **corpus**: academic
+- **form factor**: contact-lens
+- **creator**: Ehsan Pourshaban et al.
+- **disclosure**: Pourshaban E, et al. Dual-mode photovoltaic + RF harvesting contact lens delivering up to ~150 μW continuous power at 3.3 V into an 11 mF supercapacitor — combining solar harvesting (eyes open) with RF harvesting (eyes closed), on a 0.13 μm CMOS IC with ~0.2 mm² die area, ~47% RF-to-DC conversion efficiency. Work conducted at the University of Washington / now at Texas Instruments.
+- **ip status**: public-domain
+- **prior art notes**: Discloses a dual-mode ambient energy-harvesting front-end for an on-eye contact lens combining photovoltaic harvesting (eye open) with inductively-coupled RF harvesting (eye closed) into a single supercapacitor-buffered power rail at ~150 μW continuous — the architectural template for any battery-free wearable that must operate continuously across changing ambient conditions. Prior art for ring/patch/implant claims reciting 'a wearable with two or more energy-harvesting modalities operating complementarily with a shared energy buffer' from 2024.

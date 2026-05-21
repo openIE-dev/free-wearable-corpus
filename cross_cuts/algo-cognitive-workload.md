@@ -8,7 +8,7 @@ layout: default
 
 Axis: **algorithms**
 
-**4 corpus entries disclose this tag.**
+**5 corpus entries disclose this tag.**
 
 Earliest disclosure: 2007
 
@@ -52,6 +52,18 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-dry-eeg-electrode, sensor-eeg
 - **algorithms**: algo-attention-state, algo-cognitive-workload, algo-sleep-staging
 - **prior art notes**: Discloses a forehead-band wearable EEG device with frontal and behind-the-ear (TP9/TP10) dry electrodes providing real-time neurofeedback for meditation training and (later) sleep staging. Anticipates EEG-headband claims combining 'a forehead band', 'frontal and mastoid/behind-ear dry electrodes', and 'real-time feedback on a meditation or sleep state' from 2014. Note: its TP9/TP10 around-ear pickup is the same general region used by [[zanetti-aminifar-atienza-eglass-2025]] — relevant prior art for around-ear-EEG wearable claims. Product-side anchor for the headband × EEG cross-cut.
+
+## CogWatch (HardwareX, 2024) — open-source smartwatch for cognitive-load monitoring (2024)
+
+- **id**: `cogwatch-2024-hardwarex`
+- **corpus**: academic
+- **form factor**: watch
+- **creator**: (See HardwareX publication for full author list.)
+- **disclosure**: 'CogWatch: An open-source smartwatch platform for cognitive-load monitoring.' HardwareX 19 (2024). Open-source smartwatch design — full hardware, firmware, and assembly documentation published in the open-hardware-focused journal HardwareX (Elsevier). https://www.hardware-x.com/article/S2468-0672(24)00032-4/fulltext
+- **ip status**: public-domain
+- **sensors**: sensor-ppg, sensor-gsr, sensor-accelerometer
+- **algorithms**: algo-hr, algo-hrv, algo-stress-index, algo-cognitive-workload
+- **prior art notes**: Discloses, as open-hardware (HardwareX is the canonical venue for full publication of open-hardware designs), a wrist-worn smartwatch instrumented for cognitive-load monitoring from PPG-derived HRV and EDA/GSR. Prior art for smartwatch-cognitive-load claims combining 'a wrist-worn device', 'PPG and EDA sensors', and 'a derived cognitive-load metric' from 2024.
 
 ## e-Glass (Zanetti, Aminifar, Atienza; EPFL, 2025) — wearable EEG eyeglasses (2025-11-29)
 

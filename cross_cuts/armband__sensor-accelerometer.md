@@ -8,7 +8,7 @@ layout: default
 
 Axes: **form_factor × sensors**
 
-**3 corpus entries disclose both tags.**
+**4 corpus entries disclose both tags.**
 
 Earliest disclosure: 2012-04-20
 
@@ -51,3 +51,15 @@ These entries are the direct inputs to [OBVIOUSNESS_TEMPLATE.md](../OBVIOUSNESS_
 - **sensors**: sensor-ppg, sensor-accelerometer, sensor-skin-temperature
 - **algorithms**: algo-hr, algo-hrv, algo-respiratory-rate, algo-sleep-staging, algo-activity-classification
 - **prior art notes**: Discloses a display-less band worn on the wrist or upper arm with PPG, accelerometry, and skin-temperature sensing that continuously derives HR, HRV, respiratory rate, and sleep stages and combines them into a daily 'recovery' index, with no screen (companion-app readout). Anticipates screenless-band claims and PPG-derived-HRV/recovery-score claims from 2015. Product-side anchor for the bracelet × PPG cross-cut and the HRV cross-cut.
+
+## Tap Strap (Tap Systems, 2018) — finger-mounted gesture and keyboard input device (2018)
+
+- **id**: `tap-systems-tap-strap-2018`
+- **corpus**: private
+- **form factor**: other
+- **creator**: Tap Systems Inc. (founder: Dovid Schick)
+- **disclosure**: Tap Systems Inc. (founded 2014, Sherman Oaks, CA). 'Tap Strap' wearable input device, shipped 2018 — five finger-loops connected by a flexible band across the back of the hand, with accelerometers on each finger detecting tapping and gesture; mapped onto a virtual keyboard, mouse, and gesture commands via BLE. Successor 'Tap Strap 2' (2019) and 'TapXR' (a wrist version, 2023). https://www.tapwithus.com
+- **ip status**: patented
+- **sensors**: sensor-accelerometer
+- **algorithms**: algo-hand-gesture-emg
+- **prior art notes**: Discloses a hand-worn device of multiple finger-loops linked by a back-of-hand band, with motion sensors on each finger detecting per-finger tap and swipe events and mapping them via BLE to a virtual keyboard / mouse / gesture protocol — wearable per-finger gesture input by motion sensing alone (no EMG). Directly relevant prior art for any finger/hand gesture-input wearable, including [[ctrl-labs-meta-wrist-emg-2018]] (EMG route), [[myo-armband-2014]] (forearm-EMG route), and ring-form gesture input devices. Anticipates per-finger-motion-sensor gesture-recognition wearable claims from 2018.

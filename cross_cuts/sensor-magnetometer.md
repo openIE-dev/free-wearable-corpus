@@ -8,7 +8,7 @@ layout: default
 
 Axis: **sensors**
 
-**2 corpus entries disclose this tag.**
+**3 corpus entries disclose this tag.**
 
 Earliest disclosure: 2013-02-25
 
@@ -28,6 +28,18 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **sensors**: sensor-emg, sensor-accelerometer, sensor-gyroscope, sensor-magnetometer
 - **algorithms**: algo-hand-gesture-emg, algo-keystroke-emg
 - **prior art notes**: Discloses a forearm-worn band with an array of eight surface-EMG electrodes plus a 9-axis IMU that recognizes hand/finger gestures from forearm-muscle EMG combined with arm motion/orientation and transmits them wirelessly as a control input. A consumer realization of the myoelectric pattern-recognition approach ([[englehart-hudgins-2003-myoelectric-control]]); anticipates EMG-gesture-armband claims combining 'a band of surface-EMG electrodes worn around the forearm', 'an inertial sensor', and 'a classifier mapping the combined signal to a hand gesture / control command' from 2014. Product-side anchor for the armband × EMG cross-cut (the only `armband` form-factor entry besides [[mass-effect-omni-tool]] and [[fallout-pip-boy]]).
+
+## Bangle.js 2 (Espruino, 2021) — open JavaScript-app smartwatch validated in academic research (2021)
+
+- **id**: `bangle-js-2-2021`
+- **corpus**: open
+- **form factor**: watch
+- **creator**: Pur3 Ltd. (Gordon Williams, Espruino)
+- **disclosure**: Espruino / Pur3 Ltd. 'Bangle.js 2', released 2021 — Nordic nRF52840 (ARM Cortex-M4), GPS, heart rate, 3-axis accelerometer, magnetometer, pressure sensor; 4-week battery life; JavaScript app development with web-based app loader. https://banglejs.com . Validated for step counting and heart-rate measurement in academic research (multi-subject MDPI study).
+- **ip status**: open-permissive
+- **sensors**: sensor-ppg, sensor-accelerometer, sensor-magnetometer, sensor-barometer
+- **algorithms**: algo-hr, algo-step-count, algo-activity-classification
+- **prior art notes**: Discloses an open-hardware smartwatch with PPG + IMU + magnetometer + barometer + GPS, web-loaded JavaScript apps, and 4-week battery life — validated against reference devices in peer-reviewed studies for step counting and HR. As open-source hardware released in 2021 it is unencumbered prior art against patents reciting the open-firmware-platform smartwatch with this sensor set.
 
 ## Mojo Vision Mojo Lens (2022) — wearable AR contact lens with embedded microLED display (2022-06)
 

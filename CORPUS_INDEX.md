@@ -1,6 +1,6 @@
 # Corpus Index
 
-227 entries total. Generated from corpus.jsonl.
+238 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | Form factor | IP | Tier | Draft |
 |---|---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | Back to the Future Part II self-lacing 'power laces' shoes | `bttf2-power-laces-shoes` | 1989 | fictional | shoe | fictional | 1 |  |
 | Bandodkar & Wang (2014) — 'Non-invasive wearable electrochemical sensors: a review' | `bandodkar-wang-2014-wearable-electrochemical-sensors-review` | 2014 | academic | other | public-domain | 1 |  |
 | Bandodkar et al. (2015) — tattoo-based noninvasive glucose monitoring | `bandodkar-2015-tattoo-glucose-sensor` | 2014 | academic | tattoo-electronic | public-domain | 1 |  |
+| Bangle.js 2 (Espruino, 2021) — open JavaScript-app smartwatch validated in academic research | `bangle-js-2-2021` | 2021 | open | watch | open-permissive | 1 |  |
 | Batman — cowl with 'Detective Vision' (head-worn AR with through-obstacle vitals/skeletal overlay) | `batman-detective-vision-cowl` | 2009 | fictional | helmet | fictional | 1 |  |
 | Batman's utility belt | `batman-utility-belt` | 1939 | fictional | belt | fictional | 2 |  |
 | Berger (1929) — first recording of the human electroencephalogram | `berger-1929-human-eeg` | 1929 | academic | other | public-domain | 1 |  |
@@ -49,6 +50,7 @@
 | Cerebro (X-Men) — brain-amplifying head device for remote detection | `professor-x-cerebro` | 1964 | fictional | helmet | fictional | 1 |  |
 | CHB-MIT Scalp EEG Database (Shoeb, 2009) — benchmark seizure-detection dataset | `chb-mit-scalp-eeg-database-2009` | 2009 | academic | other | public-domain | 1 |  |
 | Clark & Lyons (1962) — the enzyme electrode (basis of the amperometric glucose biosensor) | `clark-lyons-1962-enzyme-electrode` | 1962 | academic | other | public-domain | 1 |  |
+| CogWatch (HardwareX, 2024) — open-source smartwatch for cognitive-load monitoring | `cogwatch-2024-hardwarex` | 2024 | academic | watch | public-domain | 1 |  |
 | Cole & Kripke et al. (1992) — automatic sleep/wake identification from wrist activity (the Cole-Kripke algorithm) | `cole-kripke-1992-wrist-actigraphy-sleep` | 1992 | academic | watch | public-domain | 1 |  |
 | Continua Health Alliance — Design Guidelines (first edition, 2007) | `continua-design-guidelines-2007` | 2007 | standards | other | standards | 1 |  |
 | Crysis — the 'Nanosuit' (mode-switchable nano-augmentation suit with HUD and neural integration) | `crysis-nanosuit` | 2007 | fictional | garment | fictional | 1 |  |
@@ -100,8 +102,10 @@
 | Ghost in the Shell — cyberbrain neural-interface implant and cyberbody monitoring | `ghost-in-the-shell-cyberbrain` | 1989 | fictional | implantable | fictional | 1 |  |
 | Google[X] / Verily smart contact lens (2014) — tear-glucose-sensing contact lens project | `verily-google-smart-contact-lens-2014` | 2014 | private | contact-lens | patented | 1 |  |
 | Green Lantern power ring | `green-lantern-power-ring` | 1940 | fictional | ring | fictional | 2 |  |
+| H-Watch (Magno et al., 2024) — open-source ARM Cortex-M4F + ML + NB-IoT + energy-harvesting research smartwatch | `h-watch-magno-2024` | 2024 | academic | watch | public-domain | 1 |  |
 | Halo — MJOLNIR powered armor (powered exoskeleton with energy shield, HUD, integrated AI, and biofoam medical system) | `halo-mjolnir-armor` | 2001 | fictional | exoskeleton | fictional | 1 |  |
 | Halting State AR glasses ('CopSpace' and ARG overlays) | `halting-state-ar-glasses` | 2007 | fictional | glasses | fictional | 1 |  |
+| HealthyPi Move (ProtoCentral, 2026) — open-source medical-grade smartwatch | `healthypi-move-2026` | 2024 | open | watch | open-permissive | 1 |  |
 | Heikenfeld et al. (2018) — 'Wearable sensors: modalities, challenges, and prospects' | `heikenfeld-2018-wearable-sensors-lab-on-chip-review` | 2018 | academic | other | public-domain | 1 |  |
 | Her — 'Samantha' in-ear conversational AI | `her-samantha-earpiece` | 2013 | fictional | earbud | fictional | 1 |  |
 | Hertzman (1937) — photoelectric plethysmography (the origin of PPG) | `hertzman-1937-photoplethysmography` | 1937 | academic | other | public-domain | 1 |  |
@@ -151,18 +155,22 @@
 | Nineteen Eighty-Four telescreen (remote body and behaviour monitoring) | `1984-telescreen-body-monitoring` | 1949 | fictional | other | fictional | 2 |  |
 | Nova — 'plug' sockets at wrist and spine for direct machine operation | `delany-nova-cyborg-sockets` | 1968 | fictional | implantable | fictional | 1 |  |
 | Omron HeartGuide (2019) — wristwatch with an inflatable oscillometric blood-pressure cuff in the band | `omron-heartguide-2019` | 2019 | private | watch | patented | 1 |  |
+| Open-Watch (Salar Motlaqolahi, 2021) — fully documented open STM32 smartwatch (BSc thesis) | `smotlaq-open-watch-2021` | 2021 | open | watch | open-permissive | 1 |  |
 | OpenBCI Cyton — open-source 8-channel biosignal (EEG/EMG/ECG) acquisition board and 3D-printed headset | `openbci-cyton-2014` | 2014 | open | cap | open-permissive | 1 |  |
 | Oura Ring (Gen 1, 2015) — finger-ring PPG, skin-temperature and accelerometer for HRV, sleep and body temperature | `oura-ring-gen1-2015` | 2015 | private | ring | patented | 1 | DRAFT |
 | Pacific Rim — Jaeger 'Drivesuit' and 'Conn-Pod' dual-pilot neural bridge | `pacific-rim-drivesuit-and-conn-pod` | 2013 | fictional | garment | fictional | 1 |  |
+| Pandey et al. (2010) — 'A fully integrated RF-powered contact lens' (the disclosure root of ambient-RF-powered wearables) | `pandey-2010-rf-powered-contact-lens` | 2010 | academic | contact-lens | public-domain | 1 |  |
 | Pantelopoulos & Bourbakis (2010) — survey on wearable sensor-based systems for health monitoring and prognosis | `pantelopoulos-bourbakis-2010-wearable-health-survey` | 2010 | academic | other | public-domain | 1 |  |
 | Paradiso et al. (2005) — 'A wearable health care system based on knitted integrated sensors' (WEALTHY) | `paradiso-2005-wealthy-knitted-smart-shirt` | 2005 | academic | garment | public-domain | 1 |  |
 | Patel et al. (2012) — 'A review of wearable sensors and systems with application in rehabilitation' | `patel-bonato-2012-wearable-sensors-rehab-review` | 2012 | academic | other | public-domain | 1 |  |
 | Peñáz (1973) — the volume-clamp (vascular unloading) method of continuous finger blood pressure | `penaz-1973-volume-clamp-finger-bp` | 1973 | academic | other | public-domain | 1 |  |
 | PillCam SB (Given Imaging, 2001) — first FDA-cleared wireless capsule endoscope | `pillcam-given-imaging-2001` | 2001 | private | ingestible | patented | 1 | DRAFT |
+| Pine64 PineTime (2018-2020) — low-cost open-source smartwatch | `pine64-pinetime-2020` | 2018 | open | watch | open-permissive | 1 |  |
 | Pokémon — 'Pokétch' wrist device with an app ecosystem | `pokemon-poketch` | 2006 | fictional | watch | fictional | 2 |  |
 | Polar H10 (2017) — research-grade chest-strap ECG heart-rate sensor | `polar-h10-chest-strap-2017` | 2017 | private | garment | patented | 1 | DRAFT |
 | Polar Sport Tester PE2000 — first wireless wrist heart-rate monitor | `polar-sport-tester-pe2000-1982` | 1982 | private | watch | patented | 1 |  |
 | Portal 2 — 'Long Fall' boots (footwear with integrated impact-absorption) | `portal-long-fall-boots` | 2011 | fictional | shoe | fictional | 2 |  |
+| Pourshaban et al. (2024) — dual-mode (solar + RF) energy-harvesting contact lens delivering 150 μW at 3.3 V | `pourshaban-2024-dual-mode-contact-lens-harvester` | 2024 | academic | contact-lens | public-domain | 1 |  |
 | Predator bio-mask (multi-spectral helmet HUD) | `predator-bio-mask` | 1987 | fictional | helmet | fictional | 1 |  |
 | Psycho-Pass — ambient continuous psychological-state scanning ('cymatic scan') | `psycho-pass-cymatic-scan` | 2012 | fictional | other | fictional | 1 |  |
 | Rainbows End AR contact lenses and 'wearing' | `rainbows-end-ar-contact-lens` | 2006 | fictional | contact-lens | fictional | 1 |  |
@@ -177,6 +185,7 @@
 | Samsung Galaxy Ring (2024) — smart ring with PPG, skin temperature and accelerometer for HR/HRV, sleep and cycle tracking | `samsung-galaxy-ring-2024` | 2024 | private | ring | patented | 1 | DRAFT |
 | Samsung Galaxy Watch3 / Samsung Health Monitor (2020) — wrist single-lead ECG and optical-PPG cuffless blood pressure | `samsung-galaxy-watch-bp-ecg-2020` | 2020 | private | watch | patented | 1 | DRAFT |
 | Senseonics Eversense (2018) — first long-term implantable continuous glucose monitor (fluorescence sensor + on-skin transmitter) | `eversense-implantable-cgm-2018` | 2018 | private | implantable | patented | 1 |  |
+| Sensimed Triggerfish (2009) — the only commercially shipping smart contact lens (24-h intraocular pressure monitoring for glaucoma) | `sensimed-triggerfish-iop-contact-lens-2009` | 2009 | private | contact-lens | patented | 1 | DRAFT |
 | Sensoria Smart Socks (2014) — pressure-sensing sock + electronic anklet for gait/running analysis | `sensoria-smart-socks-2014` | 2014 | private | sock | patented | 1 | DRAFT |
 | Seven-league boots (bottes de sept lieues) | `seven-league-boots-perrault` | 1697 | fictional | shoe | fictional | 2 |  |
 | Severance — 'severance' brain implant bifurcating consciousness | `severance-bifurcation-chip` | 2022 | fictional | implantable | fictional | 1 |  |
@@ -194,6 +203,7 @@
 | Strange Days — SQUID head-worn neural experience recorder | `strange-days-squid-recorder` | 1995 | fictional | cap | fictional | 1 |  |
 | Surrogates — head-worn neural interface rig for robot-body telepresence | `surrogates-neural-teleoperation-rig` | 2005 | fictional | headband | fictional | 1 |  |
 | Sword Art Online — 'NerveGear' full-immersion VR headset | `sao-nervegear` | 2009 | fictional | helmet | fictional | 1 |  |
+| Tap Strap (Tap Systems, 2018) — finger-mounted gesture and keyboard input device | `tap-systems-tap-strap-2018` | 2018 | private | other | patented | 1 | DRAFT |
 | Task Force of the ESC and NASPE (1996) — heart rate variability: standards of measurement | `esc-naspe-1996-hrv-standards` | 1996 | standards | other | standards | 1 |  |
 | Terminator T-800 vision HUD | `terminator-t800-hud` | 1984 | fictional | fictional-other | fictional | 1 |  |
 | Thalmic Labs Myo armband (2014) — consumer surface-EMG gesture-control armband | `myo-armband-2014` | 2013 | private | armband | patented | 1 | DRAFT |
@@ -230,4 +240,5 @@
 | Withings ScanWatch (2020) — hybrid analog watch with PPG, SpO2 pulse oximetry, single-lead ECG, and accelerometer | `withings-scanwatch-2020` | 2020 | private | watch | patented | 1 |  |
 | Wolpaw et al. (2002) — 'Brain-computer interfaces for communication and control' | `wolpaw-2002-bci-review` | 2002 | academic | other | public-domain | 1 |  |
 | Wonder Woman's bracelets (Bracelets of Submission) | `wonder-woman-bracelets` | 1941 | fictional | bracelet | fictional | 2 |  |
+| XPANCEO smart contact lens (2024) — Dubai-based AR/biosensor contact lens project | `xpanceo-ar-contact-lens-2024` | 2022 | private | contact-lens | patented | 1 | DRAFT |
 | Yao et al. (Parviz group) (2011) — contact lens with embedded electrochemical sensor for tear glucose | `yao-parviz-2011-contact-lens-glucose-sensor` | 2011 | academic | contact-lens | public-domain | 1 |  |
