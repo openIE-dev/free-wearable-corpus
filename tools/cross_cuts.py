@@ -23,11 +23,12 @@ Also writes `cross_cuts/INDEX.md` summarizing all cross-cuts.
 These files are the working prior art search tool.
 """
 import json
+import sys
 from collections import defaultdict
 from itertools import product
 from pathlib import Path
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(sys.argv[1]) if len(sys.argv) > 1 and not sys.argv[1].startswith("-") else Path(__file__).parent.parent
 CORPUS = ROOT / "corpus.jsonl"
 OUT_DIR = ROOT / "cross_cuts"
 
